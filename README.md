@@ -23,7 +23,7 @@ We are always looking for ambitious and talented individuals to join our journey
 APAC AI is released under the Apache 2.0 license. See the [LICENSE](LICENSE.md) file for more information.
 
 ## Contact
-For inquiries or suggestions, please open an issue or submit a pull request. You can also reach us at [contact@apacai.ai](mailto:contact@apacai.ai).
+For inquiries or suggestions, please open an issue or submit a pull request. You can also reach us at [kye@apac.ai](mailto:kye@apac.ai).
 
 Together, let's reshape the future and make the seemingly impossible, possible. Welcome to APAC AI, where we are abolishing programming and control, and advancing humanity through Multi-Modality AI.
 
