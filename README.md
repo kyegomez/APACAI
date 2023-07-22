@@ -1,5 +1,4 @@
 # APAC AI
-
 ![Logo](APACAI-BANNER.png)
 
 Welcome to APAC AI. We're an open source for-profit corporation. Our mission is to revolutionize the way humanity interacts with AI, promoting a future where creators can fully unleash their raw potential and redefine the very fabric of computer interaction. We are the minds behind projects such as Swarms, Andromeda, Kosmos, CyberTron, and Agora, our open-source research division.
