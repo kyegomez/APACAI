@@ -11,3 +11,4 @@ To achieve $50,000,000 in monthly recurring revenue (MRR) with a 90% profit marg
 To calculate the number of customers needed, we can divide the total targeted monthly recurring revenue by the average monthly revenue per customer. Given the annual revenue per customer of $1,200, the monthly revenue per customer is $100. Therefore, we would need approximately 500,000 customers to reach $50,000,000 MRR.
 
 These numbers may vary depending on the specific characteristics of our customer base and their usage patterns. However, focusing on these three key metrics (CLTV, NDR, and CAC ratio) can guide us toward our goal.
+
