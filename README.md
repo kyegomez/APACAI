@@ -80,5 +80,17 @@ Andromeda and Kosmos are poised to redefine the intersection of language, unders
 
 By adhering to this roadmap, we can confidently stride towards our goal of achieving massive-scale monetization. Each phase will bring us closer to realizing our ambition, setting a new standard in the AI landscape. Andromeda, Kosmos, and Swarms – together, we can change the world.
 
+### Key Performance Metrics
+
+To maintain our growth trajectory and stay on the course of being both profoundly service-oriented and unimaginably profitable, we focus on three non-vanity metrics:
+
+1. **Customer Lifetime Value (CLTV)**: CLTV measures the net profit we make from any customer during the time they are paying for our service. It's not just about acquiring users; it's about acquiring profitable users. This metric directly reflects both our ability to retain customers and the profitability of those customers.
+
+2. **Net Dollar Retention (NDR)**: NDR shows how well we’re monetizing our existing customers. It captures upsells, cross-sells, downgrades, and churn. A high NDR means that our revenues from existing customers are growing, even if we don’t add new customers, which is crucial for maintaining high profit margins.
+
+3. **Customer Acquisition Cost (CAC) Ratio**: CAC Ratio measures the profitability of our customer acquisition efforts. It shows how much we earn from a customer in the first year of their subscription compared to what we spent to acquire them. A higher ratio signifies greater efficiency and profitability.
+
+By focusing on these metrics, we are committed to building a business that doesn’t just grow but scales in a sustainable, profitable manner. Let's change the world together.
+
 ---
 APAC AI. *Advancing Humanity.*

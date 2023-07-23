@@ -58,3 +58,13 @@ Andromeda stands on the shoulders of giants. A host of contributors have poured 
 Their unique insights and expertise have been pivotal in shaping Andromeda into a formidable tool, ready to bring about a sea change in the NLP landscape.
 
 The path to massive-scale monetization is within our grasp. It requires strategic planning, relentless execution, and unwavering faith in the transformative power of Andromeda. Together, let's chart a course towards success.
+
+
+
+# Metrics
+
+* Number of PAID API Requests
+
+* Number of Tokens per API request
+
+* 
