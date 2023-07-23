@@ -50,7 +50,7 @@ Andromeda and Kosmos are poised to redefine the intersection of language, unders
 
 2. **The Domain:** Monetize access to The Domain, allowing users to leverage its unique capabilities. (Estimated starting price: $25)
 
-3. **Dedicated Capacity:** Sell dedicated computational power for Andromeda and Kosmos for exclusive usage. (Estimated starting price: $100,000/month)
+3. **Dedicated Capacity:** Sell dedicated computational power for Andromeda and Kosmos for exclusive usage. (Estimated starting price: $99,999/month)
 
 4. **Hosted Fine-Tuning:** Provide fine-tuning services, offering bespoke solutions to businesses. (Estimated starting price: $500 per hour)
 
@@ -60,7 +60,7 @@ Andromeda and Kosmos are poised to redefine the intersection of language, unders
 
 2. **The Domain:** Utilize The Domain as an additional avenue for revenue. (25$ at 100 messages every 12 hours )
 
-3. **Dedicated Capacity:** Offer exclusive computational power to Swarms for dedicated usage. (Estimated starting price: $100,000/month)
+3. **Dedicated Capacity:** Offer exclusive computational power to Swarms for dedicated usage. (Estimated starting price: $299,999/month)
 
 ## Phase 3: Monetization of The Domain
 
