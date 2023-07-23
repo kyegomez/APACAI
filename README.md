@@ -25,9 +25,14 @@ In our cosmic quest to reshape the future, several key projects serve as guiding
 Our governance model values decentralization and collective decision-making. Our projects are led by a core team of dedicated developers, but every contributor has a voice in how we grow and evolve. Through our unique approach, we ensure that APAC AI remains at the forefront of AI technology and continues to push the boundaries of what is possible.
 
 ## Becoming a Part of APAC AI
-Interested in joining our ranks? We are always seeking talented individuals passionate about AI to contribute to our mission. Whether you're a developer looking to write code for the next big AI breakthrough or a salesperson ready to bring our services to more clients, we have opportunities for you.
+Interested in joining our organization? We are always seeking talented individuals passionate about AI to contribute to our mission. Whether you're a developer looking to write code for the next big AI breakthrough or a salesperson ready to bring our services to more clients, we have opportunities for you.
 
 Contributors can join on a project-by-project basis, working in a flexible, result-oriented environment. With APAC AI, you have the freedom to choose your commitment level, whether you want to contribute a few hours a week or dedicate yourself full-time.
+
+## Hiring
+APAC AI is actively seeking ML + AI Engineers to work on democratizing SOTA Multi-Modality Foundation Models and devoted Sales Development Professionals who want to provide the next generation of AI models to customers around the globe to learn more submit an issue or email me `kye@apac.ai`
+
+The Automated Public Assistance Coporation only hires full-time members based on quality previous contributions.
 
 ## Contact
 Reach out to us at [kye@apac.ai](mailto:kye@apac.ai) for any queries or suggestions.
