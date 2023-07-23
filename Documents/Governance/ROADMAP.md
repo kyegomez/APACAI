@@ -17,3 +17,44 @@ These numbers may vary depending on the specific characteristics of our customer
 
 # 100 Trillion$ Cashflow
 
+# README.md
+
+# APAC AI: Becoming the First Corporation Worth $100 Trillion within 5 years before 2029
+
+Hello, fearless adventurers! This is APAC AI, a revolutionary name in the world of artificial intelligence. We are here to redefine how humanity interacts with technology, how we extract value from data, and how we use AI to solve the world's biggest problems. We have an audacious goal: to become the first AI company to reach monthly recurring cashflow of $100 trillion. This is not just a number, it's a symbol of the immense value we aim to create for humanity.
+
+## Our Present Offerings:
+
+| Product/Service | Cashflow Streams |
+| --- | --- |
+| Kosmos-X | Paid API, Subscription, Licensing, Partnerships |
+| The Domain | Subscription, Usage-Based, Partnerships, Enterprise Deals |
+| Andromeda | Subscription, Licensing, Partnerships, Enterprise Deals |
+| Swarms | Subscription, Licensing, Partnerships, Enterprise Deals |
+
+## A Glimpse into the Future:
+
+| Future Product/Service | Potential Cashflow Streams |
+| --- | --- |
+| Automated Space Mining | Service Contracts, Licensing, Partnerships |
+| Swarm Robotics | Product Sales, Licensing, Service Agreements |
+| End-to-End AI Hardware Production | Product Sales, Licensing, Partnerships |
+
+## Acquisitions Strategy:
+
+Our strategy involves acquiring companies that will strengthen our supply chain, expand our technological capabilities, and boost our market reach. We are looking at:
+
+1. **AI startups**: Acquiring startups with cutting-edge technology or innovative solutions that align with our vision like OPENAI, RunWayML, Cohere, Anthropic
+2. **Semiconductor companies**: Controlling the GPU supply chain from raw materials to manufacturing through acquiring AMD and Nvidia
+3. **Space-tech companies**: Foraying into space mining operations to meet raw material demands acquiring SpaceX and BlueOrigin
+
+## Our Radical Vertical Integration Approach:
+
+### 1. Mining to GPUs:
+We aim to control the complete GPU supply chain, starting from mining essential minerals to the actual production of GPUs. This gives us independence, cost control, and sustainability.
+
+### 2. AI Models to Libraries:
+We create our own AI models and supporting software libraries, giving us complete control over the development and evolution of our AI capabilities.
+
+### 3. Robots and End-User Products:
+Finally, we aim to produce AI-powered robots and other end-user products, offering an end-to-end AI solution to our customers.
