@@ -42,7 +42,7 @@ At APAC AI, we believe that with the right mix of talented individuals, cutting-
 
 # Roadmap
 
-Andromeda and Kosmos are poised to redefine the intersection of language, understanding, and AI, heralding a new era of innovation and growth. Our mission is resolute: we aim to generate $50M monthly recurring cashflow by the end of 2023 while maintaining an astonishing 90% profit margin with a 5% monthly week growth rate target. Here's our roadmap.
+Andromeda and Kosmos are poised to redefine the intersection of language, understanding, and AI, heralding a new era of innovation and growth. Our mission is resolute: we aim to generate $50M monthly recurring cashflow by the end of 2023 while maintaining an astonishing 90% profit margin with a 5% week growth rate target. Here's our roadmap.
 
 ## Phase 1: Monetization of Andromeda and Kosmos
 
