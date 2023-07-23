@@ -45,16 +45,19 @@ Hello, fearless adventurers! This is APAC AI, a revolutionary name in the world 
 Our strategy involves acquiring companies that will strengthen our supply chain, expand our technological capabilities, and boost our market reach. We are looking at:
 
 1. **AI startups**: Acquiring startups with cutting-edge technology or innovative solutions that align with our vision like OPENAI, RunWayML, Cohere, Anthropic
-2. **Semiconductor companies**: Controlling the GPU supply chain from raw materials to manufacturing through acquiring AMD and Nvidia
-3. **Space-tech companies**: Foraying into space mining operations to meet raw material demands acquiring SpaceX and BlueOrigin
+2. **Mining Conglermates**: Acquiring mining corporation with mining operations to distribution.
+3. **Semiconductor companies**: Controlling the GPU supply chain from raw materials to manufacturing through acquiring AMD and Nvidia
+4. **Space-tech companies**: Foraying into space mining operations to meet raw material demands acquiring SpaceX and BlueOrigin
 
 ## Our Radical Vertical Integration Approach:
 
 ### 1. Mining to GPUs:
 We aim to control the complete GPU supply chain, starting from mining essential minerals to the actual production of GPUs. This gives us independence, cost control, and sustainability.
 
-### 2. AI Models to Libraries:
+### 2. GPUs to Operating System
+
+### 3. AI Models to Libraries:
 We create our own AI models and supporting software libraries, giving us complete control over the development and evolution of our AI capabilities.
 
-### 3. Robots and End-User Products:
+### 4. Robots and End-User Products:
 Finally, we aim to produce AI-powered robots and other end-user products, offering an end-to-end AI solution to our customers.
