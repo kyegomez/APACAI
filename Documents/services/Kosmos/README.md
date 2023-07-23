@@ -10,7 +10,7 @@ Armed with the power to process long sequences of multi-modality inputs like ima
 
 **Action**: Roll out Kosmos-X as a paid API service. 
 
-**Estimates**: Pricing starts at $0.001 per API call.
+**Estimates**: Pricing starts at $0.01 per API call.
 
 **Customers**: Developers, SMEs, corporations.
 
@@ -26,7 +26,7 @@ Armed with the power to process long sequences of multi-modality inputs like ima
 
 **Action**: Sell exclusive computational power to businesses for dedicated usage of Kosmos-X.
 
-**Estimates**: Starting at $2,499 per month.
+**Estimates**: Starting at $249,999 per month.
 
 **Customers**: High-demand businesses, corporations.
 
