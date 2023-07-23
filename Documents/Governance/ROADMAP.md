@@ -12,3 +12,8 @@ To calculate the number of customers needed, we can divide the total targeted mo
 
 These numbers may vary depending on the specific characteristics of our customer base and their usage patterns. However, focusing on these three key metrics (CLTV, NDR, and CAC ratio) can guide us toward our goal.
 
+
+
+
+# 100 Trillion$ Cashflow
+
