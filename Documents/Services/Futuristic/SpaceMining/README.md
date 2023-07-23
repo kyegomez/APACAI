@@ -34,3 +34,31 @@ Space mining promises a new frontier for resources, and APAC AI plans to pioneer
 This journey to a 100 trillion dollar company will not be easy, but with courage, ambition, and relentless drive, we will reach our destination. We are not just building a company; we are shaping the future. 
 
 Dream big, step bold.
+
+### Automated Space Mining:
+
+Space, the final frontier, holds infinite possibilities and resources. We aim to pioneer the extraction of these resources through automated space mining.
+
+#### Business Model:
+- **Service Contracts**: Execute space mining missions for corporations and governments.
+- **Licensing**: Lease our proprietary space mining technology to other companies.
+- **Partnerships**: Collaborate with space agencies and research institutions to advance space mining technology.
+
+#### Potential Customers:
+- **Tech Companies**: Firms requiring rare earth metals and other resources.
+- **Governments**: Governments interested in space resource exploration.
+- **Research Institutions**: Entities conducting research in space exploration and mining.
+
+#### Key Performance Indicators (KPIs):
+- **Contract Value**: The value of our space mining contracts.
+- **Customer Acquisition Cost (CAC)**: Efficiency of our marketing efforts.
+- **Customer Lifetime Value (CLTV)**: Net profit from each customer.
+
+#### Actionable Roadmap:
+1. Develop proprietary space mining technology.
+2. Secure contracts for space mining operations.
+3. Negotiate licensing agreements with interested companies.
+4. Collaborate with space agencies and research institutions.
+
+In this audacious journey to becoming a $100 trillion company, we need to take bold steps and make big bets. We invite you to be part of this journey as we go where no company has gone before. Together, we can shape the future and redefine humanity's relationship with technology.
+
