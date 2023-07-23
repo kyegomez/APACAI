@@ -39,5 +39,46 @@ Reach out to us at [kye@apac.ai](mailto:kye@apac.ai) for any queries or suggesti
 
 At APAC AI, we believe that with the right mix of talented individuals, cutting-edge technology, and an open-source, collaborative approach, we can become the largest corporation of our kind. We invite you to join us on this exciting journey. Together, let's redefine the future of AI.
 
+
+# Roadmap
+
+Andromeda and Kosmos are poised to redefine the intersection of language, understanding, and AI, heralding a new era of innovation and growth. Our mission is resolute: we aim to generate $50M monthly recurring cashflow by the end of 2023 while maintaining an astonishing 90% profit margin. Here's our roadmap.
+
+## Phase 1: Monetization of Andromeda and Kosmos
+
+1. **PAID API:** Begin offering a paid API service for Andromeda and Kosmos. (Estimated starting price: $0.01 per API call)
+
+2. **The Domain:** Monetize access to The Domain, allowing users to leverage its unique capabilities. (Estimated starting price: $25)
+
+3. **Dedicated Capacity:** Sell dedicated computational power for Andromeda and Kosmos for exclusive usage. (Estimated starting price: $100,000/month)
+
+4. **Hosted Fine-Tuning:** Provide fine-tuning services, offering bespoke solutions to businesses. (Estimated starting price: $500 per hour)
+
+## Phase 2: Monetization of Swarms
+
+1. **Paid API:** Provide a paid API service for Swarms, facilitating high-performing computations. (Estimated starting price: $0.01 per API call)
+
+2. **The Domain:** Utilize The Domain as an additional avenue for revenue. (25$ at 100 messages every 12 hours )
+
+3. **Dedicated Capacity:** Offer exclusive computational power to Swarms for dedicated usage. (Estimated starting price: $100,000/month)
+
+## Phase 3: Monetization of The Domain
+
+1. **Freemium Subscription:** Launch a tiered subscription model for The Domain, from everyday users to large-scale businesses. (Estimated starting prices: $0/month for Basic, $25/month for Individuals, $299/month for Small Businesses, $999/month for Medium Businesses, and $4,999/month +  for Large Businesses)
+
+2. **Usage Performance Fee:** Implement a performance-based fee on top of subscription costs, charging more for higher usage rates. (Estimated starting price: 2% of usage cost)
+
+## Phase 4: Massive Scale Monetization
+
+1. **Broaden Market Scope:** Aggressively expand our customer base, targeting a diverse range of industries, from healthcare and education to government and tech companies.
+
+2. **Enhance Product Offerings:** Continually improve our services, ensuring we stay at the cutting edge of AI development and deliver unparalleled value to our customers.
+
+3. **Strategic Partnerships:** Develop strategic alliances with tech companies, promoting shared growth and increasing our market reach.
+
+4. **Community Engagement:** Foster a strong developer community, incentivizing contributions and ensuring continuous innovation.
+
+By adhering to this roadmap, we can confidently stride towards our goal of achieving massive-scale monetization. Each phase will bring us closer to realizing our ambition, setting a new standard in the AI landscape. Andromeda, Kosmos, and Swarms – together, we can change the world.
+
 ---
 APAC AI. *Advancing Humanity.*
