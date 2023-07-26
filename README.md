@@ -20,7 +20,7 @@ In our cosmic quest to reshape the future, several key projects serve as guiding
 
 - 🤖 **[CyberTron](https://github.com/kyegomez/CyberTron)**:  A Suite of SOTA Robotic Multi-Modality Multi-Embodied Transformer models for robotics
 - 🖲 **[TerraByte](https://github.com/kyegomez/TerraByte)**: Modeling Billion+ long sequences of omni-modality byte sequences
-- 🦄 🦄 **[PegasusX](https://github.com/kyegomez/Pegasus)**: An seamless easy to use embedding model to embed images, audio, text, sensor data, heat maps, and much much more in a unifed manner.
+- 🦄 **[PegasusX](https://github.com/kyegomez/Pegasus)**: An seamless easy to use embedding model to embed images, audio, text, sensor data, heat maps, and much much more in a unifed manner.
 
 - 📊 **[The Domain](https://github.com/kyegomez/The-Domain)**: A conversational platform to utilize Multi-Modality models and swarms in a fluid experience with access to integrate 100s of tools and conduct data analysis across your digital data life.
 - 🔎 **[Athena for Search](https://github.com/kyegomez/Athena-for-Search)**: The World's first AI-Powered Multi-Modality Native Search Engine that can understand knowledge in images, videos, audio, and many other forms of data! [Try it here](https://search.apac.ai/)
