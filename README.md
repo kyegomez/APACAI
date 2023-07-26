@@ -14,12 +14,16 @@ Our ecosystem consists of several ground-breaking projects such as Swarms, Andro
 ## Stellar Projects
 In our cosmic quest to reshape the future, several key projects serve as guiding stars. 
 
-- 🔭 **Andromeda**: Our ultra-fast foundation language model and bridge to advanced AI reasoning.
-- 🌑 **Kosmos-X**: A multi-modality foundation model leading us towards interconnected AI systems.
-- 🌊 **Ocean**: Our ultra-reliable vector database that forms the backbone for multi-modal data processing.
-- 💫 **StarLight Vision**: A glimpse into the future of content creation, with text-to-video generation.
-- 🌍 **Swarms**: Facilitating AI agent swarms and pioneering the frontier of distributed AI tasks and crowd-based learning.
+- 🔭 **[Andromeda](https://github.com/kyegomez/Andromeda)**: Our ultra-fast foundation language model and bridge to advanced AI reasoning.
+- 🌑 **[Kosmos-X](https://github.com/kyegomez/Kosmos-X)**: A multi-modality foundation model leading us towards interconnected AI systems.
+- 🌍 **[Swarms](https://github.com/kyegomez/swarms)**: Facilitating AI agent swarms and pioneering the frontier of distributed AI tasks and crowd-based learning.
 
+- 🤖 **[CyberTron](https://github.com/kyegomez/CyberTron)**:  A Suite of SOTA Robotic Multi-Modality Multi-Embodied Transformer models for robotics
+- 🖲 **[TerraByte](https://github.com/kyegomez/TerraByte)**: Modeling Billion+ long sequences of omni-modality byte sequences
+- 🦄 🦄 **[PegasusX](https://github.com/kyegomez/Pegasus)**: An seamless easy to use embedding model to embed images, audio, text, sensor data, heat maps, and much much more in a unifed manner.
+
+- 📊 **[The Domain](https://github.com/kyegomez/The-Domain)**: A conversational platform to utilize Multi-Modality models and swarms in a fluid experience with access to integrate 100s of tools and conduct data analysis across your digital data life.
+- 🔎 **[Athena for Search](https://github.com/kyegomez/Athena-for-Search)**: The World's first AI-Powered Multi-Modality Native Search Engine that can understand knowledge in images, videos, audio, and many other forms of data! [Try it here](https://search.apac.ai/)
 
 ## Governance
 Our governance model values decentralization and collective decision-making. Our projects are led by a core team of dedicated developers, but every contributor has a voice in how we grow and evolve. Through our unique approach, we ensure that APAC AI remains at the forefront of AI technology and continues to push the boundaries of what is possible.
