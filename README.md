@@ -60,13 +60,6 @@ The Automated Public Assistance Coporation only hires full-time members based on
 
 ----
 
-## Contact
-Reach out to us at [kye@apac.ai](mailto:kye@apac.ai) for any queries or suggestions.
-
-At APAC AI, we believe that with the right mix of talented individuals, cutting-edge technology, and an open-source, collaborative approach, we can become the largest corporation of our kind. We invite you to join us on this exciting journey. Together, let's redefine the future of AI.
-
-------
-
 # Roadmap
 
 Andromeda and Kosmos are poised to redefine the intersection of language, understanding, and AI, heralding a new era of innovation and growth. Our mission is resolute: we aim to generate $50M monthly recurring cashflow by the end of 2023 while maintaining an astonishing 90% profit margin with a 5% week growth rate target. Here's our roadmap.
@@ -123,3 +116,11 @@ By focusing on these metrics, we are committed to building a business that doesn
 
 ---
 APAC AI. *Advancing Humanity.*
+
+
+## Contact
+[Book a call with APAC AI Here,](https://www.apac.ai/Setup-Call) and or Reach out to us at [kye@apac.ai](mailto:kye@apac.ai) for any queries or suggestions.
+
+At APAC AI, we believe that with the right mix of talented individuals, cutting-edge technology, and an open-source, collaborative approach, we can become the largest corporation of our kind. We invite you to join us on this exciting journey. Together, let's redefine the future of AI.
+
+------
