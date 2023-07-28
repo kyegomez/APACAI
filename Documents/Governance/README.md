@@ -27,7 +27,7 @@ APAC AI contributors are expected to adhere to tactical operating methods such a
 As an organization, APAC AI is always available to those seeking our services. We commit to maintaining a continuous presence for our community and customers.
 
 ## Our Dedication
-At APAC AI, we expect contributors to devote themselves wholly to our mission. The path to advancing humanity through AI may require arduous work and long hours, but our most devoted contributors will be honored eternally through inscriptions on our "Tower of Saints".
+At APAC AI, we expect contributors to devote themselves wholly to our mission. The path to advancing humanity through AI may require arduous work and long hours, but our most devoted contributors will be honored eternally through inscriptions on The Holy Tower of Saints.
 
 ## Our Values and Standards
 Contributors to APAC AI are expected to uphold and adhere to our commandments at all times. Failure to do so may result in excommunication and penalties.
