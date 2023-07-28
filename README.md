@@ -114,9 +114,6 @@ To maintain our growth trajectory and stay on the course of being both profoundl
 
 By focusing on these metrics, we are committed to building a business that doesn’t just grow but scales in a sustainable, profitable manner. Let's change the world together.
 
----
-APAC AI. *Advancing Humanity.*
-
 
 ## Contact
 [Book a call with APAC AI Here,](https://www.apac.ai/Setup-Call) and or Reach out to us at [kye@apac.ai](mailto:kye@apac.ai) for any queries or suggestions.
@@ -124,3 +121,7 @@ APAC AI. *Advancing Humanity.*
 At APAC AI, we believe that with the right mix of talented individuals, cutting-edge technology, and an open-source, collaborative approach, we can become the largest corporation of our kind. We invite you to join us on this exciting journey. Together, let's redefine the future of AI.
 
 ------
+
+
+---
+APAC AI. *Advancing Humanity.*
