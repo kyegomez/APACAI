@@ -76,11 +76,37 @@ Custom enterprise deals aligning with the specific requirements and budgets of o
 
 ## 7. Key Performance Indicators (KPIs)
 
-The success of CyberTron will be gauged through the following KPIs:
+## 1. Model Reliability Index (MRI)
 
-1. **Adoption Rate:** The speed at which new users are adopting CyberTron.
-2. **Customer Retention Rate:** The percentage of customers who continue to use CyberTron over a specific period.
-3. **Revenue:** The total revenue generated from the various monetization strategies.
+This index is a composite metric to evaluate the reliability and performance of our models. It includes factors such as:
+
+- **Model Accuracy**: Measures the percentage of correct predictions made by our model compared to the actual outcomes.
+- **Robustness**: Evaluates how well our models handle changes in the environment and their ability to recover from failures.
+- **Latency**: Measures the average time taken by our models to make a prediction or decision, indicative of their responsiveness.
+- **Adaptability**: Evaluates how efficiently our models learn and adapt to new scenarios or data.
+- **General Intelligence**: Evaluates how general the model is in respect to accomplishing any user objective.
+
+By aggregating these factors, the MRI provides a comprehensive measure of the reliability and performance of our models, which is crucial to ensure our solutions meet user goals.
+
+## 2. Sales Efficiency Score (SES)
+
+This metric is used to gauge the effectiveness of our sales and marketing efforts. It is calculated by comparing the gross profit from new customers to the sales and marketing expenses over a given period. The formula is:
+
+    SES = (Gross Profit from New Customers / Sales & Marketing Expenses) x 100%
+
+A higher score indicates more efficient sales and marketing operations, providing insights into the ROI of these efforts. Regularly tracking this metric helps optimize our strategies and resources to achieve higher growth rates.
+
+## 3. User Experience Score (UXS)
+
+This score is used to quantify user satisfaction and the overall experience with our product. It combines the following elements:
+
+- **Net Promoter Score (NPS)**: Measures customer loyalty and satisfaction. It's calculated based on responses to the question: "On a scale of 0-10, how likely are you to recommend our product/service to a friend or colleague?" 
+- **Customer Effort Score (CES)**: Evaluates how easy it is for customers to use our product, navigate our interfaces, get support, etc. Lower effort scores indicate better user experiences.
+- **User Engagement Rate**: Analyzes how often and how long users interact with our product. This includes factors like session duration, frequency of use, and feature utilization.
+
+The UXS gives us valuable insights into how users perceive our product and what we can do to improve their experience.
+
+By focusing on these non-vanity KPIs, we ensure that we continually track the most critical aspects of our business: the reliability of our solutions, the effectiveness of our marketing and sales efforts, and the satisfaction of our users.
 
 ## 8. Actionable Roadmap
 
