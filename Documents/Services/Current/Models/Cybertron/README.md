@@ -76,7 +76,7 @@ Custom enterprise deals aligning with the specific requirements and budgets of o
 
 ## 7. Key Performance Indicators (KPIs)
 
-## 1. Model Reliability Index (MRI)
+#### 1. Model Reliability Index (MRI)
 
 This index is a composite metric to evaluate the reliability and performance of our models. It includes factors such as:
 
@@ -88,7 +88,7 @@ This index is a composite metric to evaluate the reliability and performance of 
 
 By aggregating these factors, the MRI provides a comprehensive measure of the reliability and performance of our models, which is crucial to ensure our solutions meet user goals.
 
-## 2. Sales Efficiency Score (SES)
+#### 2. Sales Efficiency Score (SES)
 
 This metric is used to gauge the effectiveness of our sales and marketing efforts. It is calculated by comparing the gross profit from new customers to the sales and marketing expenses over a given period. The formula is:
 
@@ -96,7 +96,7 @@ This metric is used to gauge the effectiveness of our sales and marketing effort
 
 A higher score indicates more efficient sales and marketing operations, providing insights into the ROI of these efforts. Regularly tracking this metric helps optimize our strategies and resources to achieve higher growth rates.
 
-## 3. User Experience Score (UXS)
+#### 3. User Experience Score (UXS)
 
 This score is used to quantify user satisfaction and the overall experience with our product. It combines the following elements:
 
