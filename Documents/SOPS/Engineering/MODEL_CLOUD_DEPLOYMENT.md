@@ -13,7 +13,7 @@ Before starting the process, ensure the following:
 
 ### Model Preparation:
 
-1. **Model Serialization**: Serialize the pretrained LLM using a format that's compatible with your chosen deployment framework, such as ONNX or TensorFlow's SavedModel ([Model Serialization in TensorFlow](https://www.tensorflow.org/tutorials/keras/save_and_load)).
+1. **Model Serialization**: Quantize with QLORA then Serialize the pretrained LLM using a format that's compatible with your chosen deployment framework, such as ONNX.
 
 ### Infrastructure Setup:
 
