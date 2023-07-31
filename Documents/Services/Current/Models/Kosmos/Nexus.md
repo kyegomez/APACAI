@@ -1,4 +1,4 @@
-# Nexus for Kosmos Product Brief
+# Nexus for Kosmos
 
 APAC AI is thrilled to announce the creation of Nexus, a pinnacle of AI innovation. An exclusive platform architectured for those who seek the finest, Nexus enables developers and enterprises to deploy APAC AI models on a dedicated landscape of untamed power.
 
