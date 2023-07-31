@@ -9,7 +9,9 @@ input -> function -> output
 ```
 * I call the function, middleware, or search algorithm because you are searching for an outcome based on your input.
 
-## Systems Thinking Step-by-Step
+---
+
+### Systems Thinking Step-by-Step
 
 1. **Identify Stocks and Flows:**
    Stocks are quantities that are measurable at a specific point in time. Flows represent the activities that increase or decrease stocks.
