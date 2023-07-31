@@ -90,3 +90,7 @@ input -> function -> output
 * Over time, tackle more complex systems. 
 * It's about understanding our world's complexity to create sustainable change and recognizing that the whole is greater than the sum of its parts. 
 * Let's shape the world together.
+
+
+### Parables
+* A system is a swarm of functions
