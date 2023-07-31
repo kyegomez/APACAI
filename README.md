@@ -47,11 +47,11 @@ In our cosmic quest to reshape the future, several key projects serve as guiding
 - 🔭 **[Andromeda](https://github.com/kyegomez/Andromeda)**: Our ultra-fast foundation language model and bridge to advanced AI reasoning.
 - 🌑 **[Kosmos-X](https://github.com/kyegomez/Kosmos-X)**: A multi-modality foundation model leading us towards interconnected AI systems.
 - 🖲 **[TerraByte](https://github.com/kyegomez/TerraByte)**: Modeling Billion+ long sequences of omni-modality byte sequences
+- 🦄 **[PegasusX](https://github.com/kyegomez/Pegasus)**: An seamless easy to use embedding model to embed images, audio, text, sensor data, heat maps, and much much more in a unifed manner.
 ----
 
 ### Frameworks
 - 🌍 **[Swarms](https://github.com/kyegomez/swarms)**: Facilitating AI agent swarms and pioneering the frontier of distributed AI tasks and crowd-based learning.
-- 🦄 **[PegasusX](https://github.com/kyegomez/Pegasus)**: An seamless easy to use embedding model to embed images, audio, text, sensor data, heat maps, and much much more in a unifed manner.
 
 ------
 
