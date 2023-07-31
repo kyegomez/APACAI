@@ -126,4 +126,56 @@ to meet domain experts
 * Meet alot of people, develop a trackrecord with people, deliver always deliver
 * they want to make money
 * they feel powerless with AI
-* 
+
+
+
+Recap
+* Timeline of analytics of patients past history
+* record conversations
+* Optimize Accuracy of analysis in time, the most reliable analysis with references and chain of thought in the shortest amount of time
+
+* need domain experience 
+* it's all regional => then diagnosing for demntial for cognitive geopgraphical regions
+* get datasets highly detailed datasets, for very specific tasks.
+
+* data, distribution, integration
+* acquire spefic geographic datasets => Reliable Analysis
+
+* Partner with Government for massive datasets
+* Completely automated healthcare system run by swarms
+* target low level place, don't replace Human pick the best of the best of the cohort. 
+
+* Do a great job on what you did and how you did.
+* The action is on the fundamental level.
+* Optimize the Human and get => downstream benefits.
+
+* Understand the risks, and mitigate 
+* we must be better
+* human lives are getting worse they are not getting better.
+
+* Don't produce more information, but produce reliable information
+* Go on a roadshow and inspire people
+
+* NASHVILLE TENESSE HOME OF MEDICINE
+* When scaling need to be in multiple locations
+* Do seminars with defense execs and provide demos 
+
+* explicitly provide a seminar with execs, huntsville alambama
+
+* All the private space companies in huntsville alambama
+* incremental partnerships, work with datacenters
+* ensure datacenters get capacity , incline transacation provide more cashflow to them
+
+* Your data has not been creating value, we can make you rich if you give us data 
+* align with all the future business partners 
+
+
+
+* Make a strategy with costs and streams, 
+* Proof, provide concept of demos
+* Secure a contract with secure cashflow 
+
+* create a strategy to navigate the idea maze, and create MVP for very fundamental problem and get alot of attention
+* Predict what the rheotic will be from the opposition
+
+e
