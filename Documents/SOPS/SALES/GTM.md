@@ -63,3 +63,9 @@ Documentation:
 - Messaging strategy and frameworks
 - GTM performance dashboards
 - Acquisition channel analysis
+
+
+
+## Resources
+* [Road to Nirvana](https://www.carolineclark.xyz/gtm-nirvana)
+* [Road to nirvana slide show](https://docs.google.com/presentation/d/1YoaOOX6a2SR7exE4roSg1AxYOxFykCEUS6roYyUtydU/edit#slide=id.ga57b613b61_0_30)

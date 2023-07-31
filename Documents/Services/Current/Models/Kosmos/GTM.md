@@ -81,3 +81,19 @@ This GTM strategy aims to guide the successful market launch and customer acquis
    - Commit to treating our GTM strategy as a living document that's open to continuous improvement.
 
 With this GTM strategy, we are ready to introduce Kosmos-X to the world and establish it as a leading multi-modality AI model. Let's shape the future of AI together. Dream big, step bold.
+
+
+
+## Features
+* Conversational Model
+* Multi-Modality processing, images, audio, videos, 
+* Long Context Lengths of 50,000+ long sequences
+
+* Finetune via api call simply or finetune via a press of a button and or upload a huggingface dataset
+* Ocean db, for retrievel
+* Lora for Finetuning
+ 
+* QLora for quantization
+* License one of our models and download the weights via a few simple API commands. Use our HYPER OPTIMIZED inference code to run the model within your infrastructure or any private cloud. Our training code supports adaptation to your datasets on premise.
+
+* 
