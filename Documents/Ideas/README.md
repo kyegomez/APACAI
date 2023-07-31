@@ -13,4 +13,22 @@
 * optimize the healthcare care through information
 * medical transcription is foundational
 * outrun instituotional bloat with true value
+* crappy mri 3,000$, automate mri analysis, file image format .dicon => transform to png, slice them up, or get a 3d representation of a mri into a nerf, has a coordinate system
+* HMO, Firm,
+* Transcription in 3 minutes and not 5 hours
+* Alignment of corporate people is the main obstacle
+* remove cost centers
+* optimize transcriptions => make 50% faster
+* target dermatalogits, 
+* long term memory, with all conversations in The Domain, 
+* Entertainment industry, dubs => move in synchronization with dubs to mouth facial expression.control net for video and audio
+* Force multiplayer, divide and conquer. 
+* take out weak links, generate alot of profitable cashflow, 
+
+* Build out medical team of consultants, 
+* FIND MRI DATASETS TRANSFORM INTO IMAGES AND THEN TRAIN ON KOSMOS
+
+* Medical Transcriptions should be one of the most important and profitable tasks to tackle, gain an understanding of medical transcription. Provide really good proof of concept, train on MRI, transcription data
+* STRATEGICALLY APPLY SOLUTIONS FOR TRANSFORMATIVE CHANGE
+* Least amount of legal restrictions, no lawsuit and pursue that revenue stream
 * 

@@ -130,3 +130,5 @@ Establish partnerships with other organizations, integrating Kosmos-X within the
 In the cosmos of AI, **Kosmos-X** shines brightest. Let's embark on this grand voyage together and shape the future of AI.
 
 Dream big, step bold,
+
+
