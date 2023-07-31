@@ -9,6 +9,8 @@ _____________________________________
 3. Boy scout rule. Leave the campground cleaner than you found it.
 4. Always find root cause. Always look for the root cause of a problem.
 
+--- 
+
 ## Design rules
 1. Keep configurable data at high levels.
 2. Prefer polymorphism to if/else or switch/case.
@@ -17,6 +19,8 @@ _____________________________________
 5. Use dependency injection.
 6. Follow Law of Demeter. A class should know only its direct dependencies.
 
+---
+
 ## Understandability tips
 1. Be consistent. If you do something a certain way, do all similar things in the same way.
 2. Use explanatory variables.
@@ -24,6 +28,8 @@ _____________________________________
 4. Prefer dedicated value objects to primitive type.
 5. Avoid logical dependency. Don't write methods which works correctly depending on something else in the same class.
 6. Avoid negative conditionals.
+---
+
 
 ## Names rules
 1. Choose descriptive and unambiguous names.
@@ -33,6 +39,9 @@ _____________________________________
 5. Replace magic numbers with named constants.
 6. Avoid encodings. Don't append prefixes or type information.
 
+
+---
+
 ## Functions rules
 1. Small.
 2. Do one thing.
@@ -40,6 +49,8 @@ _____________________________________
 4. Prefer fewer arguments.
 5. Have no side effects.
 6. Don't use flag arguments. Split method into several independent methods that can be called from the client without the flag.
+
+---
 
 ## Comments rules
 1. Always try to explain yourself in code.
@@ -50,6 +61,8 @@ _____________________________________
 6. Use as explanation of intent.
 7. Use as clarification of code.
 8. Use as warning of consequences.
+
+---
 
 ## Source code structure
 1. Separate concepts vertically.
@@ -63,6 +76,8 @@ _____________________________________
 9. Use white space to associate related things and disassociate weakly related.
 10. Don't break indentation.
 
+---
+
 ## Objects and data structures
 1. Hide internal structure.
 2. Prefer data structures.
@@ -74,12 +89,16 @@ _____________________________________
 8. Better to have many functions than to pass some code into a function to select a behavior.
 9. Prefer non-static methods to static methods.
 
+---
+
 ## Tests
 1. One assert per test.
 2. Readable.
 3. Fast.
 4. Independent.
 5. Repeatable.
+
+---
 
 ## Code smells
 1. Rigidity. The software is difficult to change. A small change causes a cascade of subsequent changes.
@@ -89,6 +108,7 @@ _____________________________________
 5. Needless Repetition.
 6. Opacity. The code is hard to understand.
 
+---
 
 # Adding Features
 1. Lower Requirements to stupid minimum
@@ -99,7 +119,7 @@ _____________________________________
 6. Accelerate add more features
 
 
-
+---
 
 
 # Clean Code
