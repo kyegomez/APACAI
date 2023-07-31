@@ -115,6 +115,8 @@ We can form strategic partnerships with tech companies, research institutions, a
 ### Step 1: Launch as Paid API:
 Roll out Kosmos-X as a paid API service. Start pricing at an accessible rate while still generating a steady stream of revenue.
 
+* Create coupons to increase API Usage, submit 5 api requests and get the next one 50%, Gamify usage to increase volume => get more data => Automatic finetuning + RLHF => better model => more volume with coupons => more data 
+
 ### Step 2: Introduce Subscription Plans:
 Introduce tiered subscription plans. These plans provide regular, reliable revenue and make it easier for customers to match their needs with the correct package.
 

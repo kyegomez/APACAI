@@ -9,7 +9,7 @@ This GTM strategy aims to guide the successful market launch and customer acquis
    
    Quickly build powerful AI functionalities • Proven by testimonials from beta testers
    -----------------------------------------------------------------------------
-   Minimal integration time *    Low monthly subscription fees
+   Minimal integration time in 10 seconds *    Low usage fee
 
    By using Kosmos-X, individual developers can quickly incorporate advanced multi-modality AI capabilities into their projects. The ease and success of this integration have been vouched for by beta testers. We offer a fast, seamless integration process and an affordable subscription plan to minimize both time and financial commitment.
 
@@ -96,4 +96,9 @@ With this GTM strategy, we are ready to introduce Kosmos-X to the world and esta
 * QLora for quantization
 * License one of our models and download the weights via a few simple API commands. Use our HYPER OPTIMIZED inference code to run the model within your infrastructure or any private cloud. Our training code supports adaptation to your datasets on premise.
 
-* 
+* Finetune on your own private datasets
+* Add longterm memory + for a fee
+* Add tools for a fee, Search the browser, math, wolfram-alpha
+
+* Extreme reasoning ability, Kosmos-X does not halluceniate is adept with mathematics, creativity, and logical and or non-linear thinking.
+* Advanced Multi-Modality Knowledge Transformer, the ability to transform knowledge from one modality into another, Kosmos can excel at this with quality multi-modality datasets
