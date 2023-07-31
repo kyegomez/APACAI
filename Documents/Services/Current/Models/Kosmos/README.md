@@ -50,3 +50,7 @@ Tue, Sep 12 | Launch! 🚀 | Global audience | Official public release
 6. Prepare contingency plans for potential technical issues post-launch.
 
 Kosmos-X is more than a product; it's a transformative step towards an all-encompassing AI experience. Let's journey together into this brave new era of AI. Dream big, step bold.
+
+
+
+
