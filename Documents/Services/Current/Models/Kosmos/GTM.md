@@ -1,6 +1,5 @@
 # Go-to-Market Strategy for Kosmos-X
 
-## Objective: 
 This GTM strategy aims to guide the successful market launch and customer acquisition for Kosmos-X, a modular multi-modality AI model that comprehends diverse forms of data.
 
 ## Value Proposition:
