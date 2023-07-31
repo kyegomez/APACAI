@@ -3,6 +3,28 @@
 ## Objective: 
 This SOP provides step-by-step instructions for developing and executing a go-to-market (GTM) strategy to successfully bring a new product to market. 
 
+### Value proposition
+Value proposition Formula
+Dream outcome • Perceived Likelihood
+-------------------------------------
+Time Delay *     Effort & Sacrifice
+Where:
+
+Maximize Value Using Value Equation
+❏ Maximize Dream Outcome (solve problem worth solving)
+
+❏ Maximize Perceived Likelihood of Success (testimonials& proven case studies)
+
+❏ Minimize Time to Success (How can we make this faster? How can we show progress?)
+
+❏ Minimize Effort & Sacrifice (How can we make this easier? More Seamless? Convenient?)
+
+### 3 Whys
+* Why buy
+* Why from us
+* Why now
+
+
 Scope:
 This SOP applies to the product, marketing, and sales teams who are involved in launching a new product.
 
