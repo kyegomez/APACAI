@@ -81,8 +81,6 @@ This GTM strategy aims to guide the successful market launch and customer acquis
 
 With this GTM strategy, we are ready to introduce Kosmos-X to the world and establish it as a leading multi-modality AI model. Let's shape the future of AI together. Dream big, step bold.
 
-
-
 ## Features
 * Conversational Model
 * Multi-Modality processing, images, audio, videos, 
