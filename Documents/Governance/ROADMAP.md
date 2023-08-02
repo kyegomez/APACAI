@@ -13,6 +13,45 @@ To calculate the number of customers needed, we can divide the total targeted mo
 These numbers may vary depending on the specific characteristics of our customer base and their usage patterns. However, focusing on these three key metrics (CLTV, NDR, and CAC ratio) can guide us toward our goal.
 
 
+## Plan for 50,000,000$ Cashflows
+* Train Andromeda
+* Release Andromeda for free open source
+* Create infrastructure for paid api usage, + hosted finetuning on apacai api
+
+* enable early access signup page like RobinHood to get early beta testers that shows position in line for an AI api called Andromeda in a space theme => go viral 1mill signups
+* Deploy as paid api using AWS 
+* Repeat for Kosmos
+
+* Develop beautiful documentations and developer platform with Linear and openai like documentation
+* Go to market with Influencer partnerships, and Hackathons, and events, and referral program and deals,
+* Start freelancer sales project where sales development professionals are hired through open source to gain thousands of sales people
+
+* Develop very big premium enterprise deals with select customers for dedicated capacity
+* Deploy on The Domain with agent infrastructure like long term memory or tools for subscription ranges, of 0, to 19.99 with rate limits, to 999$ for small businesses to manage and connect all of their data, then 9,999 for bigger businesses like attornyes offices monthly.
+* Cultivate laser precise value propositions for each market then advertise to them and show them the value of our services.
+
+
+
+# Calculations
+* 500CUSTOMERS x Kosmos-X 1 instances at 99,999$ 
+
+* 5,000,000,000 API requests x 0.01$ Kosmos ==> we would need to optimize for repeat API requests and gamify api usage while also increasing the reasoning of our models and make it as useful as possible to warrant consistent and repeat usage on this scale, we also need to enable efficient architectures and inference deployment strategies to enable such cheap and effective inference 
+
+* The Domain// 2,501,250 customers at 19.99$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # 100 Trillion$ Cashflow
