@@ -123,7 +123,6 @@ To drive a self-sustaining cycle of growth for both arms, a combined flywheel st
 5. **Growth**: As the community grows, so do opportunities. Increased earnings and a stronger product reputation attract more developers and salespeople.
 6. **Back to Training & Empowerment**: The increased interest leads back to the first stage, creating a cycle of continuous growth.
 
-The ASCII diagram representing the combined flywheel is:
 
 ```
                   +-------------------+
