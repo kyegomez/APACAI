@@ -1,5 +1,133 @@
 # Flywheel Effect for Developer Acquisition and Incentivization
 
+The open-source community has greatly benefited from projects like Linux, which accommodates contributions from an enormous network of developers. This research document presents an ultimate strategy to manage code contributions from millions of developers, ensuring high code quality and maintaining optimal usability, reliability, speed, and performance. This strategy outlines a novel design strategy for large-scale collaboration in open-source projects.
+
+## Architecture
+
+The strategy's backbone lies in a distributed and decentralized architecture akin to the likes of Linux, where each node (individual contributor or group of contributors) maintains its version of the codebase. The emphasis is on the interconnectivity of these nodes to form a larger, cohesive project, achieved through a streamlined contribution and merging process.
+
+The proposed architecture is represented in the ASCII diagram below:
+
+```
+                      +-------------+
+                      |  Master     |
+                      |  Repository |
+                      +-------------+
+                             |
+                             v
+               +---+---+---+---+---+
+               | N | N | N | N | N |   [N = Node (Contributor's Environment)]
+               +---+---+---+---+---+
+```
+
+## Contribution Strategy
+
+### Node Environment
+
+Each developer operates in a local environment (Node). The node contains the entire codebase, allowing the developer to work independently and test their changes locally before contributing to the master repository.
+
+```
+  +-----------+
+  |   Node    |
+  +-----+-----+
+        |
+  +-----v-----+
+  | Codebase  |
+  +-----------+
+```
+
+### Peer Review and Integration
+
+A contribution (new feature, bug fix, etc.) begins its life in a Node. Once the developer is satisfied with their work, the contribution is pushed to the master repository. However, it is not immediately merged into the main codebase. Instead, it enters a queue for peer review.
+
+```
+  +-----------+
+  |   Node    |
+  +-----+-----+
+        |
+  +-----v-----+
+  | Contribution |
+  +-----+-----+
+        |
+  +-----v-----+
+  |  Master   |
+  | Repository|
+  +-----+-----+
+        |
+  +-----v-----+
+  | Review Queue |
+  +-----+-----+
+```
+
+### Continuous Integration (CI)
+
+Once a contribution is approved, it's merged into the master repository. A Continuous Integration (CI) system checks the entire project to ensure the new contribution didn't introduce any bugs or break any existing functionality. The updated master branch is then propagated back to all Nodes.
+
+```
+  +-----------+
+  | Review    |
+  | Queue     |
+  +-----+-----+
+        |
+  +-----v-----+
+  | CI System |
+  +-----+-----+
+        |
+  +-----v-----+
+  |  Master   |
+  | Repository|
+  +-----+-----+
+        |
+  +-----v-----+
+  | Propagation |
+  |   to Nodes  |
+  +-------------+
+```
+
+## Flywheel Effect for Developer Engagement
+
+To attract and maintain a large, vibrant community of developers, the flywheel effect is put into play. The flywheel concept embodies a cycle of growth that feeds off its momentum to become self-sustaining over time.
+
+1. **Community Building**: Building an engaging, supportive, and dynamic community around the project serves as the foundation. This community acts as the driving force attracting developers interested in contributing.
+2. **Developer Influx**: As the community grows, more developers are attracted to contribute to the project, thereby improving its quality and scope.
+3. **Increased Attraction**: The project's enhanced quality and broadened scope attract more users, consequently increasing potential revenue.
+4. **Reward Distribution**: As revenue surges, a portion is set aside to reward developers. This incentive draws more developers to the community.
+5. **Cycle Repeats**: This process repeats, with each iteration drawing more developers, improving the project, increasing its user base, and raising potential rewards.
+
+The ASCII diagram representing the flywheel is as follows:
+
+```
+                  +-------------------+
+                  |   Community       |
+                  |   Building        |
+                  +-------------------+
+                          |
+                          V
+                  +-------------------+
+                  |   Developer       |
+                  |   Influx          |
+                  +-------------------+
+                          |
+                          V
+                  +-------------------+
+                  |   Increased       |
+                  |   Attraction      |
+                  +-------------------+
+                          |
+                          V
+                  +-------------------+
+                  |   Reward          |
+                  |   Distribution    |
+                  +-------------------+
+                          |
+                          V
+                  +-------------------+
+                  |   Cycle Repeats   |
+                  +-------------------+
+```
+
+This cycle's ongoing nature leads to a vibrant community of developers that continuously grows, contributing towards a more robust and feature-rich open-source project. The proposed strategy, coupled with the flywheel effect, ensures that the project not only attracts a strong, committed team of open-source developers but also provides a conducive environment for collaboration, learning, and growth.
+
 As with the sales model, the developer acquisition and incentivization model also relies on a flywheel effect. This effect is particularly potent in a community-driven ecosystem such as ours, where the value proposition continually grows as more developers join and contribute to our projects. Here's how we could apply this approach:
 
 ## Step 1: Initial Value Proposition for Developers
