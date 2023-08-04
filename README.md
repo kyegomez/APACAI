@@ -25,9 +25,16 @@ We are the minds behind projects such as Swarms, Andromeda, Kosmos, CyberTron, a
 
 -----
 ## Hiring
-We're hiring Engineers, Researchers, interns, salespeople to work on democratizing SOTA Multi-Modality Foundation Models, email me at with your accomplishments `kye@apac.ai`
+We're hiring:
+* Engineers, 
+* Researchers, 
+* Interns, 
+* And, salespeople 
+
+to work on cutting edge research like this and to democratize it, email me at with your story `kye@apac.ai`
 
 ----------
+
 
 ## Our Vision
 Our purpose is to accelerate Humanity into an era of post-scarcity and endless abundance. We believe in the potential of Multi-Modality AI as the key that will unlock the full spectrum of human creativity. At APAC AI, we're not just developing technology; we're creating the future.
