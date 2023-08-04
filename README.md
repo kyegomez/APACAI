@@ -23,6 +23,10 @@ Welcome to APAC AI. Our mission is to revolutionize the way humanity interacts w
 
 We are the minds behind projects such as Swarms, Andromeda, Kosmos, CyberTron, and Agora, our open-source research division. We're an Human first collective of Humans utilizing an open source for-profit approach to leverage economics and ultimately bring forth an post-scarcity Human civilization
 
+-----
+## Hiring
+We're hiring Engineers, Researchers, interns, salespeople to work on democratizing SOTA Multi-Modality Foundation Models, email me at with your accomplishments `kye@apac.ai`
+
 ----------
 
 ## Our Vision
@@ -78,13 +82,6 @@ Interested in joining our organization? We are always seeking talented individua
 Contributors can join on a project-by-project basis, working in a flexible, result-oriented environment. With APAC AI, you have the freedom to choose your commitment level, whether you want to contribute a few hours a week or dedicate yourself full-time.
 
 -----
-
-## Hiring
-APAC AI is actively seeking ML + AI Engineers to work on democratizing SOTA Multi-Modality Foundation Models and devoted Sales Development Professionals who want to provide the next generation of AI models to customers around the globe to learn more submit an issue or email me `kye@apac.ai`
-
-The Automated Public Assistance Coporation only hires full-time members based on quality previous contributions.
-
-----
 
 # Roadmap
 
