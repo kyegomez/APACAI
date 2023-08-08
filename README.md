@@ -25,13 +25,7 @@ We are the minds behind projects such as Swarms, Andromeda, Kosmos, CyberTron, a
 
 -----
 ## Hiring
-We're hiring:
-* Engineers, 
-* Researchers, 
-* Interns, 
-* And, salespeople 
-
-to work on cutting edge research like this and to democratize it, email me at with your story `kye@apac.ai`
+We're hiring: Engineers, Researchers, Interns, And, salespeople  to work on cutting edge research like [Swarms](https://github.com/kyegomez/swarms) and to democratize it, email me at with your story `kye@apac.ai`
 
 ----------
 
