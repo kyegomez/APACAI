@@ -113,6 +113,7 @@ To create an ecosystem where third-party developers can contribute, and users ca
 
 * **Hosted Dedicated Capacity:** Hosted dedicated capacity deals for enterprises starting at 399,999$
 * **Decentralized Free Peer to peer endpoint hosted on The Grid:** Hosted endpoint by the people for the people.
+* **Browser Extenision:** Athena browser extension for deep browser automation, subscription, usage, 
 
 
 * **Mobile Application:** Develop a mobile app version for Swarms to tap into the vast mobile user base.
