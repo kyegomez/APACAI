@@ -8,3 +8,5 @@
 * To engineer is Human
 * Tao te ching
 * Bible
+* Creative Selection
+* The Lean startup
