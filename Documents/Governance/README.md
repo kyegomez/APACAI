@@ -36,7 +36,6 @@ We believe that our contributors must distance themselves from corrupt practices
 
 
 -------
--------
 
 # Dual Open Source Engineering and Sales Scaling Strategy
 

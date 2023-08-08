@@ -21,7 +21,9 @@
 
 Welcome to APAC AI. Our mission is to revolutionize the way humanity interacts with AI, promoting a future where creators can fully unleash their raw potential. 
 
-We are the minds behind projects such as Swarms, Andromeda, Kosmos, CyberTron, and Agora, our open-source research division. We're an Human first collective of Humans utilizing an open source for-profit approach to leverage economics and ultimately bring forth an post-scarcity Human civilization
+We are the minds behind projects such as Swarms, Andromeda, Kosmos, CyberTron, and Agora, our open-source research division. 
+
+We're an Human first collective of Humans utilizing an open source for-profit approach to leverage economics and ultimately bring forth an post-scarcity Human civilization
 
 -----
 ## Hiring
