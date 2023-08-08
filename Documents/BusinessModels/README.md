@@ -2,8 +2,6 @@
 
 Our structure is unique. We operate as an open-source for-profit organization, focusing on delivering transcendental AI services to our clients. Our business model relies heavily on our vast community of freelancers. Developers, salespeople, and AI enthusiasts from around the globe come together under the banner of APAC AI, each contributing their unique skills and perspectives to our collective effort.
 
-Our ecosystem consists of several ground-breaking projects such as Swarms, Andromeda, Kosmos, CyberTron, and Agora, each making key contributions to the field of AI research and development. These projects not only represent the best of what we have to offer but also serve as the foundation upon which we continue to build and innovate.
-
 ----
 
 ## Governance
@@ -136,7 +134,6 @@ To drive a self-sustaining cycle of growth for both arms, a combined flywheel st
 
 This comprehensive strategy ensures that both engineers and salespeople are given the tools and resources they need to succeed, with a clear path for growth and improvement. It is through this dual-approach that the product can reach new heights of success and profitability.
 
------
 -----
 
 # Risk and Mitigations Analysis for the Corporation Architecture

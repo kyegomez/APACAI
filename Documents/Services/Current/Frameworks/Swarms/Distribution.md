@@ -111,6 +111,10 @@ To create an ecosystem where third-party developers can contribute, and users ca
 
 ### **Future Outlook & Expansion:**
 
+* **Hosted Dedicated Capacity:** Hosted dedicated capacity deals for enterprises starting at 399,999$
+* **Decentralized Free Peer to peer endpoint hosted on The Grid:** Hosted endpoint by the people for the people.
+
+
 * **Mobile Application:** Develop a mobile app version for Swarms to tap into the vast mobile user base.
 * **Global Expansion:** Localize the platform for non-English speaking regions to tap into global markets.
 * **Continuous Learning:** Regularly collect user feedback and iterate on the product features.
