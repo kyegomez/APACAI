@@ -79,7 +79,7 @@ Our governance model values decentralization and collective decision-making. Our
 
 -----
 
-## Becoming a Part of APAC AI
+## Join APAC AI
 Interested in joining our organization? We are always seeking talented individuals passionate about AI to contribute to our mission. Whether you're a developer looking to write code for the next big AI breakthrough or a salesperson ready to bring our services to more clients, we have opportunities for you.
 
 Contributors can join on a project-by-project basis, working in a flexible, result-oriented environment. With APAC AI, you have the freedom to choose your commitment level, whether you want to contribute a few hours a week or dedicate yourself full-time.
