@@ -71,7 +71,7 @@ In our cosmic quest to reshape the future, several key projects serve as guiding
 
 - 📊 **[The Domain](https://github.com/kyegomez/The-Domain)**: A conversational platform to utilize Multi-Modality models and swarms in a fluid experience with access to integrate 100s of tools and conduct data analysis across your digital data life.
 - 🔎 **[Athena for Search](https://github.com/kyegomez/Athena-for-Search)**: The World's first AI-Powered Multi-Modality Native Search Engine that can understand knowledge in images, videos, audio, and many other forms of data! [Try it here](https://search.apac.ai/)
-- 🖲 **[Athena Browser](https://www.apac.ai/athena-writer): Seamlessly Automate 1000s of tasks in your browser.[Sign up now for only 19.99](https://www.apac.ai/athena-writer)
+- 🖲 **[Athena Browser](https://www.apac.ai/athena-writer): An omni-present browser extension companion to help you automate thousands of browser tasks. [Sign up now for only 19.99](https://www.apac.ai/athena-writer)
 
 ----
 
