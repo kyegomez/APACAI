@@ -11,13 +11,9 @@ Time Delay *     Effort & Sacrifice
 Where:
 
 Maximize Value Using Value Equation
-❏ Maximize Dream Outcome (solve problem worth solving)
 
-❏ Maximize Perceived Likelihood of Success (testimonials& proven case studies)
-
-❏ Minimize Time to Success (How can we make this faster? How can we show progress?)
-
-❏ Minimize Effort & Sacrifice (How can we make this easier? More Seamless? Convenient?)
+In one short statement:
+❏ Maximize Dream Outcome (solve problem worth solving)❏ Maximize Perceived Likelihood of Success (testimonials& proven case studies) ❏ Minimize Time to Success (How can we make this faster? How can we show progress?) ❏ Minimize Effort & Sacrifice (How can we make this easier? More Seamless? Convenient?)
 
 ### 3 Whys
 * Why buy
