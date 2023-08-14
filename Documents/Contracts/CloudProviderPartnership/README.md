@@ -19,7 +19,7 @@
 7. **Access to AI Products**: Provide them with complimentary access to some of APAC AI's premium products or services, enhancing their operational efficiency.
 
 
-## **Reward Matrix for Compute Providers in Partnership with APAC AI's Andromeda**
+## **Reward Matrix for Compute Providers in Partnership with Agora**
 
 **Objective**: To incentivize cloud providers to support Andromeda's growth by offering a structured reward matrix. This matrix is designed to ensure mutual growth and long-term collaboration. 
 
@@ -55,7 +55,6 @@
 - **Mutual Promotion**: By co-branding, both Andromeda and the compute provider can enjoy shared visibility and user trust.
 
 - **Community Recognition**: Recognizing contributors not only from the open-source community but also from our partners (like compute providers) fosters collaboration and goodwill.
-
 
 
 ### **Potential Contract Outline**:
