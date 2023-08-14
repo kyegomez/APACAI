@@ -18,6 +18,46 @@
 
 7. **Access to AI Products**: Provide them with complimentary access to some of APAC AI's premium products or services, enhancing their operational efficiency.
 
+
+## **Reward Matrix for Compute Providers in Partnership with APAC AI's Andromeda**
+
+**Objective**: To incentivize cloud providers to support Andromeda's growth by offering a structured reward matrix. This matrix is designed to ensure mutual growth and long-term collaboration. 
+
+| **Stages** | **Reward/Incentive** | **Description** | **Potential Amount/Reward** |
+|------------|----------------------|------------------|-----------------------------|
+| **Stage 1: Establish Core Services** |
+| Usage-Based API | Revenue Share | Share of the revenue generated from every API call | 10% of $0.01 per API call |
+| Subscription Models | Revenue Share | Share of revenue from every subscription plan sold | 5% of subscription price |
+| Freemium Model | Bonus | For every user that upgrades from free to advanced | $2 per upgrade |
+| **Stage 2: Expand the Monetization Horizons** |
+| Consulting Deals | Referral Bonus | For every consulting deal sourced or facilitated by the provider | 5% of deal value |
+| Dedicated Capacity | Discounted Rates | Special rates for compute providers who want dedicated access | 20% discount |
+| Licensing the Technology | Licensing Share | Share of revenue from licenses sold | 7% of license price |
+| Custom Development | Project-based Bonus | Bonus on projects facilitated by or sourced via the provider | 5-10% of project value |
+| **Stage 3: Form Strategic Partnerships** |
+| Partnerships | Mutual Promotion | Promote the provider in joint ventures and shared platforms | Joint branding and marketing |
+| Sponsorships | Joint Sponsorship | Co-sponsor events or projects with the compute provider | Varies based on event/project |
+| **Stage 4: Leverage the Community** |
+| Open Source Contributor Recognition | Community Recognition | Recognize key contributors from the provider's side | Special mentions, certificates |
+
+### **Notes**:
+
+- **Revenue Share**: The revenue-sharing model is designed to give a percentage of the income from a particular service to the compute provider. This ensures that the more users or clients Andromeda attracts, the more the provider earns.
+
+- **Referral Bonus**: If the compute provider facilitates or introduces a consulting deal, they receive a part of the deal value.
+
+- **Discounted Rates**: Offering exclusive discounts to the providers ensures they can access our services at a preferential rate.
+
+- **Licensing Share**: If a company wants to utilize Andromeda for their proprietary use, a share of this license revenue goes to the provider.
+
+- **Project-based Bonus**: On custom projects, a percentage of the project's value is given as a bonus to the provider if they play a significant role in its facilitation or execution.
+
+- **Mutual Promotion**: By co-branding, both Andromeda and the compute provider can enjoy shared visibility and user trust.
+
+- **Community Recognition**: Recognizing contributors not only from the open-source community but also from our partners (like compute providers) fosters collaboration and goodwill.
+
+
+
 ### **Potential Contract Outline**:
 
 **1. Introduction**:
