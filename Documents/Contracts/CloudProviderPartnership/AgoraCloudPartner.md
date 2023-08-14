@@ -16,7 +16,7 @@ Now, therefore, in consideration of the mutual covenants contained herein, it is
 
 ### **2. Monetization and Revenue Sharing**:
 2.1. **Consulting Deals**: Provider shall be eligible for a 5% bonus of the deal value for every consulting deal they facilitate or introduce.
-2.2. **Dedicated Capacity**: Provider can access Andromeda's resources at a preferential rate, with a 20% discount.
+2.2. **Dedicated Capacity**: Provider can access Andromeda's resources at a preferential rate, with a 20% revenue share of the revenue deal for the compute provider.
 2.3. **Licensing**: Provider shall receive a 7% share of revenue from licenses sold.
 2.4. **Training and Certifications**: Provider shall be eligible for a 5% share of every course or certification sold.
 2.5. **Custom Development**: Provider shall be granted a bonus ranging from 5-10% of the project value on facilitated or sourced projects.
