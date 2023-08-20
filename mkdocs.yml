@@ -4,11 +4,11 @@ plugins:
   - search
 copyright: "&copy; APACAI, Inc."
 extra_css:
-  - docs/assets/css/extra.css
+  - assets/css/extra.css
 extra:
-  analytics:
-    provider: google
-    property: G-QM8EDPSCB6
+  # analytics:
+  #   provider: google
+  #   property: G-QM8EDPSCB6
   social:
     - icon: fontawesome/solid/house
       link: https://www.apac.ai
