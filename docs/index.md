@@ -1,8 +1,5 @@
-<div align="center">
   
 # APAC AI
-
-![Logo](APACAI-BANNER.png)
 
 
 Welcome to APAC AI. Our mission is to revolutionize the way humanity interacts with AI, promoting a future where creators can fully unleash their raw potential. 
