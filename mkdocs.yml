@@ -15,9 +15,7 @@ extra:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/gnWRz88eym
     - icon: fontawesome/brands/github
-      link: https://github.com/kyegomez/
-    - icon: fontawesome/brands/python
-      link: https://pypi.org/project/
+      link: https://github.com/kyegomez/apacai
 theme:
     name: material
     custom_dir: docs/overrides
@@ -70,96 +68,96 @@ nav:
       - Sales Strategy: "governance/SALES.md"
     - SOPS:
       - Engineering:
-        - Clean Code: "sops/Engineering/CleanCode.md"
-        - Documentation: "sops/Engineering/Documentation.md"
-        - Model Deployment: "sops/Engineering/ModelDeployment/README.md"
-        - Systems Thinking: "sops/Engineering/SystemsThinking.md"
+        - Clean Code: "apacai/sops/Engineering/CleanCode.md"
+        - Documentation: "apacai/sops/Engineering/Documentation.md"
+        - Model Deployment: "apacai/sops/Engineering/ModelDeployment/README.md"
+        - Systems Thinking: "apacai/sops/Engineering/SystemsThinking.md"
       - Sales:
-        - Go-to-Market Strategy: "sops/SALES/GTM.md"
+        - Go-to-Market Strategy: "apacai/sops/SALES/GTM.md"
     - Ideas:
-      - Overview: "ideas/README.md"
+      - Overview: "apacai/ideas/README.md"
     - Presentations:
       - Agora:
-        - Agora Presentation: "presentations/Agora/agora-compressed.pdf"
+        - Agora Presentation: "apacai/presentations/Agora/agora-compressed.pdf"
     - Resources:
-      - Books: "resources/BOOKS.md"
+      - Books: "apacai/resources/BOOKS.md"
     - Values:
-      - Overview: "values/README.md"
+      - Overview: "apacai/values/README.md"
     - BusinessModels:
       - BMAnalysis:
-        - ARASAKA: "BusinessModels/BMAnalysis/ARASAKA.md"
-        - ATLAS: "BusinessModels/BMAnalysis/ATLAS.md"
-        - CHOAM: "BusinessModels/BMAnalysis/CHOAM.md"
-        - DUTCHEAST: "BusinessModels/BMAnalysis/DUTCHEAST.md"
-        - HUDSONBAY: "BusinessModels/BMAnalysis/HUDSONBAY.md"
-        - LEX: "BusinessModels/BMAnalysis/LEX.md"
-        - NVIDIA: "BusinessModels/BMAnalysis/NVIDIA.md"
-        - TSCM: "BusinessModels/BMAnalysis/TSCM.md"
-        - TYRELL: "BusinessModels/BMAnalysis/TYRELL.md"
-        - USSTEEL: "BusinessModels/BMAnalysis/USSTEEL.md"
-        - WALMART: "BusinessModels/BMAnalysis/WALMART.md"
-        - WAYNE: "BusinessModels/BMAnalysis/WAYNE.md"
-        - WEYLAND: "BusinessModels/BMAnalysis/WEYLAND.md"
+        - ARASAKA: "apacai/BusinessModels/BMAnalysis/ARASAKA.md"
+        - ATLAS: "apacai/BusinessModels/BMAnalysis/ATLAS.md"
+        - CHOAM: "apacai/BusinessModels/BMAnalysis/CHOAM.md"
+        - DUTCHEAST: "apacai/BusinessModels/BMAnalysis/DUTCHEAST.md"
+        - HUDSONBAY: "apacai/BusinessModels/BMAnalysis/HUDSONBAY.md"
+        - LEX: "apacai/BusinessModels/BMAnalysis/LEX.md"
+        - NVIDIA: "apacai/BusinessModels/BMAnalysis/NVIDIA.md"
+        - TSCM: "apacai/BusinessModels/BMAnalysis/TSCM.md"
+        - TYRELL: "apacai/BusinessModels/BMAnalysis/TYRELL.md"
+        - USSTEEL: "apacai/BusinessModels/BMAnalysis/USSTEEL.md"
+        - WALMART: "apacai/BusinessModels/BMAnalysis/WALMART.md"
+        - WAYNE: "apacai/BusinessModels/BMAnalysis/WAYNE.md"
+        - WEYLAND: "apacai/BusinessModels/BMAnalysis/WEYLAND.md"
       - FuturisticBM:
-        - FuturisticBM Overview: "BusinessModels/FuturisticBM/README.md"
+        - FuturisticBM Overview: "apacai/BusinessModels/FuturisticBM/README.md"
     - Contracts:
       - CloudProviderPartnership:
-        - AgoraCloudPartner: "Contracts/CloudProviderPartnership/AgoraCloudPartner.md"
+        - AgoraCloudPartner: "apacai/Contracts/CloudProviderPartnership/AgoraCloudPartner.md"
     - Acquisitions:
-      - Overview: "Acquisitions/README.md"
+      - Overview: "apacai/Acquisitions/README.md"
     - Brand:
       - LogBook:
-        - Overview: "Brand/LogBook/README.md"
-        - APACAI-BANNER Copy: "APACBrand/LogBook/APACAI-BANNER copy.png"
-        - APACAI-PARTNERS: "Brand/LogBook/APACAI-PARTNERS.png"
-        - Swarms Banner: "Brand/LogBook/swarmsbanner.png"
-      - MAIDaily: "Brand/MAIDaily.md"
-    - Financials: "Financials/README.md"
+        - Overview: "apacai/Brand/LogBook/README.md"
+        - APACAI-BANNER Copy: "apacai/APACBrand/LogBook/APACAI-BANNER copy.png"
+        - APACAI-PARTNERS: "apacai/Brand/LogBook/APACAI-PARTNERS.png"
+        - Swarms Banner: "apacai/Brand/LogBook/swarmsbanner.png"
+      - MAIDaily: "apacai/Brand/MAIDaily.md"
+    - Financials: "apacai/Financials/README.md"
     - Services:
-      - Overview: "Services/README.md"
+      - Overview: "apacai/Services/README.md"
       - Current:
         - Frameworks:
           - Swarms:
-            - BM: "Services/Current/Frameworks/Swarms/BM.md"
-            - DESIGN_PHILOSOPHY: "Services/Current/Frameworks/Swarms/DESIGN_PHILOSOPHY.md"
-            - Distribution: "Services/Current/Frameworks/Swarms/Distribution.md"
-            - FLYWHEEL: "Services/Current/Frameworks/Swarms/FLYWHEEL.md"
-            - PURPOSE: "Services/Current/Frameworks/Swarms/PURPOSE.md"
-            - README: "Services/Current/Frameworks/Swarms/README.md"
-            - ROADMAP: "Services/Current/Frameworks/Swarms/ROADMAP.md"
-            - SALES: "Services/Current/Frameworks/Swarms/SALES.md"
+            - BM: "apacai/Services/Current/Frameworks/Swarms/BM.md"
+            - DESIGN_PHILOSOPHY: "apacai/Services/Current/Frameworks/Swarms/DESIGN_PHILOSOPHY.md"
+            - Distribution: "apacai/Services/Current/Frameworks/Swarms/Distribution.md"
+            - FLYWHEEL: "apacai/Services/Current/Frameworks/Swarms/FLYWHEEL.md"
+            - PURPOSE: "apacai/Services/Current/Frameworks/Swarms/PURPOSE.md"
+            - README: "apacai/Services/Current/Frameworks/Swarms/README.md"
+            - ROADMAP: "apacai/Services/Current/Frameworks/Swarms/ROADMAP.md"
+            - SALES: "apacai/Services/Current/Frameworks/Swarms/SALES.md"
         - ModelSuites:
           - Cybertron:
-            - README: "Services/Current/ModelSuites/Cybertron/README.md"
+            - README: "apacai/Services/Current/ModelSuites/Cybertron/README.md"
         - Models:
           - Andromeda:
-            - Andromeda.pdf: "Services/Current/Models/Andromeda/Andromeda.pdf"
-            - README: "Services/Current/Models/Andromeda/README.md"
+            - Andromeda.pdf: "apacai/Services/Current/Models/Andromeda/Andromeda.pdf"
+            - README: "apacai/Services/Current/Models/Andromeda/README.md"
           - Kosmos:
-            - CASHFLOWS: "Services/Current/Models/Kosmos/CASHFLOWS.md"
-            - GTM: "Services/Current/Models/Kosmos/GTM.md"
-            - MONETIZATION: "Services/Current/Models/Kosmos/MONETIZATION.md"
-            - Nexus: "Services/Current/Models/Kosmos/Nexus.md"
-            - README: "Services/Current/Models/Kosmos/README.md"
+            - CASHFLOWS: "apacai/Services/Current/Models/Kosmos/CASHFLOWS.md"
+            - GTM: "apacai/Services/Current/Models/Kosmos/GTM.md"
+            - MONETIZATION: "apacai/Services/Current/Models/Kosmos/MONETIZATION.md"
+            - Nexus: "apacai/Services/Current/Models/Kosmos/Nexus.md"
+            - README: "apacai/Services/Current/Models/Kosmos/README.md"
         - Platforms:
           - AthenaBrowser:
-            - BusinessModel: "Services/Current/Platforms/AthenaBrowser/BusinessModel.md"
-            - EnterprisePlan: "Services/Current/Platforms/AthenaBrowser/EnterprisePlan.md"
-            - README: "Services/Current/Platforms/AthenaBrowser/README.md"
-            - ValueProposition: "Services/Current/Platforms/AthenaBrowser/ValueProposition.md"
+            - BusinessModel: "apacai/Services/Current/Platforms/AthenaBrowser/BusinessModel.md"
+            - EnterprisePlan: "apacai/Services/Current/Platforms/AthenaBrowser/EnterprisePlan.md"
+            - README: "apacai/Services/Current/Platforms/AthenaBrowser/README.md"
+            - ValueProposition: "apacai/Services/Current/Platforms/AthenaBrowser/ValueProposition.md"
           - TheDomain:
-            - README: "Services/Current/Platforms/TheDomain/README.md"
+            - README: "apacai/Services/Current/Platforms/TheDomain/README.md"
         - Transcend:
-          - README: "Services/Current/Transcend/README.md"
-          - transcend.pdf: "Services/Current/Transcend/transcend.pdf"
+          - README: "apacai/Services/Current/Transcend/README.md"
+          - transcend.pdf: "apacai/Services/Current/Transcend/transcend.pdf"
       - Futuristic:
         - AthenaOS:
-          - IDEAS: "Services/Futuristic/AthenaOS/IDEAS.md"
-          - README: "Services/Futuristic/AthenaOS/README.md"
+          - IDEAS: "apacai/Services/Futuristic/AthenaOS/IDEAS.md"
+          - README: "apacai/Services/Futuristic/AthenaOS/README.md"
         - Nanomachines:
-          - README: "Services/Futuristic/Nanomachines/README.md"
-        - README: "Services/Futuristic/README.md"
+          - README: "apacai/Services/Futuristic/Nanomachines/README.md"
+        - README: "apacai/Services/Futuristic/README.md"
         - SpaceMining:
-          - README: "Services/Futuristic/SpaceMining/README.md"
+          - README: "apacai/Services/Futuristic/SpaceMining/README.md"
         - SwarmRobotics:
-          - README: "Services/Futuristic/SwarmRobotics/README.md"
+          - README: "apacai/Services/Futuristic/SwarmRobotics/README.md"
