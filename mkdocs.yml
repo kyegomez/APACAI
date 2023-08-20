@@ -64,7 +64,7 @@ nav:
     - FAQ: "faq.md"
 - APACAI Framework:
   - Overview: "APACAI/index.md"
-  - Structures:
+  - Services:
     - Pipelines: "APACAI/structures/pipelines.md"
     - Agents: "APACAI/structures/agents.md"
     - Workflows: "APACAI/structures/workflows.md"

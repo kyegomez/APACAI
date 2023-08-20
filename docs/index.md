@@ -2,22 +2,8 @@
   
 # APAC AI
 
-</div>
-
 ![Logo](APACAI-BANNER.png)
 
-<div align="center">
-  
-![Discord](https://img.shields.io/discord/999382051935506503)
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fkyegomez%2Fapac-ai)](https://twitter.com/intent/tweet?text=APAC%20AI%20is%20advancing%20Humanity!%20Check%20out%20our%20company%20hub%20here%3A%20https%3A%2F%2Fgithub.com%2Fkyegomez%2Fapac-ai)
-[![LinkedIn](https://img.shields.io/badge/Share-LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fkyegomez%2Fapac-ai)
-[![Facebook](https://img.shields.io/badge/Share-Facebook-blue?style=social&logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Fkyegomez%2Fapac-ai)
-[![Reddit](https://img.shields.io/badge/Share-Reddit-orange?style=social&logo=reddit)](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fkyegomez%2Fapac-ai&title=APAC%20AI%20is%20advancing%20Humanity!%20Check%20out%20our%20company%20hub%20here%3A%20https%3A%2F%2Fgithub.com%2Fkyegomez%2Fapac-ai)
-[![Hacker News](https://img.shields.io/badge/Share-Hacker%20News-orange?style=social&logo=y-combinator)](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fgithub.com%2Fkyegomez%2Fapac-ai&t=APAC%20AI%20is%20advancing%20Humanity!%20Check%20out%20our%20company%20hub%20here%3A%20https%3A%2F%2Fgithub.com%2Fkyegomez%2Fapac-ai)
-[![Pinterest](https://img.shields.io/badge/Share-Pinterest-red?style=social&logo=pinterest)](https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fgithub.com%2Fkyegomez%2Fapac-ai&media=https%3A%2F%2Fgithub.com%2Fkyegomez%2Fapac-ai%2Fraw%2Fmain%2Fapac-ai.jpeg&description=APAC%20AI%20is%20advancing%20Humanity!%20Check%20out%20our%20company%20hub%20here%3A%20https%3A%2F%2Fgithub.com%2Fkyegomez%2Fapac-ai)
-[![WhatsApp](https://img.shields.io/badge/Share-WhatsApp-green?style=social&logo=whatsapp)](https://api.whatsapp.com/send?text=APAC%20AI%20is%20advancing%20Humanity!%20Check%20out%20our%20company%20hub%20here%3A%20https%3A%2F%2Fgithub.com%2Fkyegomez%2Fapac-ai)
-
-</div>
 
 Welcome to APAC AI. Our mission is to revolutionize the way humanity interacts with AI, promoting a future where creators can fully unleash their raw potential. 
 
