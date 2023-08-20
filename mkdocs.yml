@@ -61,7 +61,7 @@ nav:
     - Contributing: "contributing.md"
     - FAQ: "faq.md"
   - APACAI:
-    - Overview: "tanlecontents.md"
+    - Overview: "tablecontents.md"
     - Governance:
       - Developer Guidelines: "governance/DEVELOPER.md"
       - Roadmap: "governance/ROADMAP.md"
