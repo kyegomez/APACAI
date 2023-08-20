@@ -1,145 +1,116 @@
-The Swarms framework provides developers with the ability to create AI systems that operate across two dimensions: **predictability** and **creativity**. 
+# APACAI Docs
 
-For **predictability**, Swarms enforces structures like sequential pipelines, DAG-based workflows, and long-term memory. To facilitate creativity, Swarms safely prompts LLMs with tools and short-term memory connecting them to external APIs and data stores. The framework allows developers to transition between those two dimensions effortlessly based on their use case.
+## Table of Contents
 
-Swarms not only helps developers harness the potential of LLMs but also enforces trust boundaries, schema validation, and tool activity-level permissions. By doing so, Swarms maximizes LLMs’ reasoning while adhering to strict policies regarding their capabilities.
+- [Home](index.md)
+  - [Overview](index.md)
+  - [Contributing](contributing.md)
+  - [FAQ](faq.md)
 
-Swarms’s design philosophy is based on the following tenets:
+- [APACAI](index.md)
+  - [Overview](index.md)
 
-1. **Modularity and composability**: All framework primitives are useful and usable on their own in addition to being easy to plug into each other.
-2. **Technology-agnostic**: Swarms is designed to work with any capable LLM, data store, and backend through the abstraction of drivers.
-3. **Keep data off prompt by default**: When working with data through loaders and tools, Swarms aims to keep it off prompt by default, making it easy to work with big data securely and with low latency.
-4. **Minimal prompt engineering**: It’s much easier to reason about code written in Python, not natural languages. Swarms aims to default to Python in most cases unless absolutely necessary.
+  - [Governance](governance/README.md)
+    - [Developer Guidelines](governance/DEVELOPER.md)
+    - [Roadmap](governance/ROADMAP.md)
+    - [Sales Strategy](governance/SALES.md)
 
-## Quick Starts
+  - [SOPS](apacai/sops/README.md)
+    - [Engineering](apacai/sops/Engineering/README.md)
+      - [Clean Code](apacai/sops/Engineering/CleanCode.md)
+      - [Documentation](apacai/sops/Engineering/Documentation.md)
+      - [Model Deployment](apacai/sops/Engineering/ModelDeployment/README.md)
+      - [Systems Thinking](apacai/sops/Engineering/SystemsThinking.md)
+    - [Sales](apacai/sops/SALES/README.md)
+      - [Go-to-Market Strategy](apacai/sops/SALES/GTM.md)
 
-First, configure an OpenAI client by [getting an API key](https://beta.openai.com/account/api-keys) and adding it to your environment as `OPENAI_API_KEY`. If no specific [PromptDriver](structures/prompt-drivers.md) is defined, Swarms uses [OpenAI Completions API](https://platform.openai.com/docs/guides/completion) to execute LLM prompts. 
+  - [Ideas](apacai/ideas/README.md)
+    - [Overview](apacai/ideas/README.md)
 
-### Using pip
+  - [Presentations](apacai/presentations/README.md)
+    - [Agora](apacai/presentations/Agora/README.md)
+      - [Agora Presentation](apacai/presentations/Agora/agora-compressed.pdf)
 
-Install **swarms** and **swarms-tools**:
+  - [Resources](apacai/resources/README.md)
+    - [Books](apacai/resources/BOOKS.md)
 
-```
-pip install swarms swarms-tools -U
-```
+  - [Values](apacai/values/README.md)
+    - [Overview](apacai/values/README.md)
 
-### Using Poetry
+  - [BusinessModels](apacai/BusinessModels/README.md)
+    - [BMAnalysis](apacai/BusinessModels/BMAnalysis/README.md)
+      - [ARASAKA](apacai/BusinessModels/BMAnalysis/ARASAKA.md)
+      - [ATLAS](apacai/BusinessModels/BMAnalysis/ATLAS.md)
+      - [CHOAM](apacai/BusinessModels/BMAnalysis/CHOAM.md)
+      - [DUTCHEAST](apacai/BusinessModels/BMAnalysis/DUTCHEAST.md)
+      - [HUDSONBAY](apacai/BusinessModels/BMAnalysis/HUDSONBAY.md)
+      - [LEX](apacai/BusinessModels/BMAnalysis/LEX.md)
+      - [NVIDIA](apacai/BusinessModels/BMAnalysis/NVIDIA.md)
+      - [TSCM](apacai/BusinessModels/BMAnalysis/TSCM.md)
+      - [TYRELL](apacai/BusinessModels/BMAnalysis/TYRELL.md)
+      - [USSTEEL](apacai/BusinessModels/BMAnalysis/USSTEEL.md)
+      - [WALMART](apacai/BusinessModels/BMAnalysis/WALMART.md)
+      - [WAYNE](apacai/BusinessModels/BMAnalysis/WAYNE.md)
+      - [WEYLAND](apacai/BusinessModels/BMAnalysis/WEYLAND.md)
+    - [FuturisticBM](apacai/BusinessModels/FuturisticBM/README.md)
+      - [FuturisticBM Overview](apacai/BusinessModels/FuturisticBM/README.md)
 
-To get started with Swarms using Poetry first create a new poetry project from the terminal: 
+  - [Contracts](apacai/Contracts/README.md)
+    - [CloudProviderPartnership](apacai/Contracts/CloudProviderPartnership/README.md)
+      - [AgoraCloudPartner](apacai/Contracts/CloudProviderPartnership/AgoraCloudPartner.md)
 
-```
-poetry new swarms-quickstart
-```
+  - [Acquisitions](apacai/Acquisitions/README.md)
+    - [Overview](apacai/Acquisitions/README.md)
 
-Change your working directory to the new `swarms-quickstart` directory created by Poetry and add the dependencies. 
+  - [Brand](apacai/Brand/README.md)
+    - [LogBook](apacai/Brand/LogBook/README.md)
+      - [Overview](apacai/Brand/LogBook/README.md)
+      - [APACAI-BANNER Copy](apacai/APACBrand/LogBook/APACAI-BANNER copy.png)
+      - [APACAI-PARTNERS](apacai/Brand/LogBook/APACAI-PARTNERS.png)
+      - [Swarms Banner](apacai/Brand/LogBook/swarmsbanner.png)
+    - [MAIDaily](apacai/Brand/MAIDaily.md)
 
-```
-poetry add swarms
-poetry add swarms-tools
-```
-## Build a Simple Agent 
-With Swarms, you can create *structures*, such as `Agents`, `Pipelines`, and `Workflows`, that are composed of different types of tasks. First, let's build a simple Agent that we can interact with through a chat based interface. 
+  - [Financials](apacai/Financials/README.md)
+    - [Overview](apacai/Financials/README.md)
 
-```python
-from swarms.structures import Agent
-from swarms.utils import Chat
-
-agent = Agent()
-Chat(agent).start()
-```
-Run this script in your IDE and you'll be presented with a `Q:` prompt where you can interact with your model. 
-```
-Q: write me a haiku about swarms 
-processing...
-[06/28/23 10:31:34] INFO     Task de1da665296c4a3799a0f280aff59610              
-                             Input: write me a haiku about swarms             
-[06/28/23 10:31:37] INFO     Task de1da665296c4a3799a0f280aff59610              
-                             Output: Swarms on my board,                      
-                             Keeps me steady, never slips,                      
-                             Skateboarding bliss.                               
-A: Swarms on my board,
-Keeps me steady, never slips,
-Skateboarding bliss.
-Q: 
-```
-If you want to skip the chat interface and load an initial prompt, you can do so using the `.run()` method: 
-
-```python
-agent.run("write me a haiku about swarms")
-```
-Agents on their own are fun, but let's add some capabilities to them using Swarms Tools. 
-### Build a Simple Agent with Tools 
-
-```python
-from swarms.structures import Agent
-from swarms.tools import Calculator
-
-calculator = Calculator()
-
-agent = Agent(
-   tools=[calculator]
-)
-
-agent.run(
-    "what is 7^12"
-)
-```
-Here is the chain of thought from the Agent. Notice where it realizes it can use the tool you just injected to do the calculation.[^1] 
-[^1]: In some cases a model might be capable of basic arithmatic. For example, gpt-3.5 returns the correct numeric answer but in an odd format.
-
-```
-[06/28/23 10:36:59] INFO     Task 891c17132d9f4f3e88c6281aadc1daeb              
-                             Input: what is 7^12                                
-[06/28/23 10:37:04] INFO     Subtask 26c4612c351c407db6fa974db3654d13           
-                             Thought: I can use the Calculator tool to calculate
-                             the value of 7 raised to the power of 12.          
-                                                                                
-                             Action:                                            
-                             {"type": "tool", "name": "Calculator", "activity": 
-                             "calculate", "input": {"values": {"expression":    
-                             "7**12"}}}                                         
-                    INFO     Subtask 26c4612c351c407db6fa974db3654d13           
-                             Observation: 13841287201                           
-[06/28/23 10:37:07] INFO     Task 891c17132d9f4f3e88c6281aadc1daeb              
-                             Output: The value of 7 raised to the power of 12 is
-                             13,841,287,201.   
-```
-
-## Build a Simple Pipeline
-
-Let's define a simple two-task pipeline that uses tools and memory:
-
-```python
-from swarms.memory.structure import ConversationMemory
-from swarms.structures import Pipeline
-from swarms.tasks import ToolkitTask, PromptTask
-from swarms.tools import WebScraper, FileManager
-
-
-# Pipelines represent sequences of tasks.
-pipeline = Pipeline(
-    memory=ConversationMemory()
-)
-
-pipeline.add_tasks(
-    # Load up the first argument from `pipeline.run`.
-    ToolkitTask(
-        "{{ args[0] }}",
-        # Add tools for web scraping, and file management
-        tools=[WebScraper(), FileManager()]
-    ),
-    # Augment `input` from the previous task.
-    PromptTask(
-        "Say the following in spanish: {{ input }}"
-    )
-)
-
-pipeline.run(
-    "Load https://www.swarms.ai, summarize it, and store it in swarms.txt"
-)
-```
-
-Boom! Our first LLM pipeline with two sequential tasks generated the following exchange:
-
-> Q: Load https://swarms.readthedocs.io, summarize it, and store it in swarms.txt  
-> A: El contenido de https://swarms.readthedocs.io ha sido resumido y almacenado en swarms.txt.
+  - [Services](apacai/Services/README.md)
+    - [Overview](apacai/Services/README.md)
+    - [Current](apacai/Services/Current/README.md)
+      - [Frameworks](apacai/Services/Current/Frameworks/README.md)
+        - [Swarms](apacai/Services/Current/Frameworks/Swarms/README.md)
+          - [BM](apacai/Services/Current/Frameworks/Swarms/BM.md)
+          - [DESIGN_PHILOSOPHY](apacai/Services/Current/Frameworks/Swarms/DESIGN_PHILOSOPHY.md)
+          - [Distribution](apacai/Services/Current/Frameworks/Swarms/Distribution.md)
+          - [FLYWHEEL](apacai/Services/Current/Frameworks/Swarms/FLYWHEEL.md)
+          - [PURPOSE](apacai/Services/Current/Frameworks/Swarms/PURPOSE.md)
+          - [README](apacai/Services/Current/Frameworks/Swarms/README.md)
+          - [ROADMAP](apacai/Services/Current/Frameworks/Swarms/ROADMAP.md)
+          - [SALES](apacai/Services/Current/Frameworks/Swarms/SALES.md)
+      - [ModelSuites](apacai/Services/Current/ModelSuites/README.md)
+        - [Cybertron](apacai/Services/Current/ModelSuites/Cybertron/README.md)
+          - [Cybertron](apacai/Services/Current/ModelSuites/Cybertron/Cybertron.md)
+      - [Models](apacai/Services/Current/Models/README.md)
+        - [Andromeda](apacai/Services/Current/Models/Andromeda/README.md)
+          - [Andromeda.pdf](apacai/Services/Current/Models/Andromeda/Andromeda.pdf)
+      - [Platforms](apacai/Services/Current/Platforms/README.md)
+        - [AthenaBrowser](apacai/Services/Current/Platforms/AthenaBrowser/README.md)
+          - [BusinessModel](apacai/Services/Current/Platforms/AthenaBrowser/BusinessModel.md)
+          - [EnterprisePlan](apacai/Services/Current/Platforms/AthenaBrowser/EnterprisePlan.md)
+          - [README](apacai/Services/Current/Platforms/AthenaBrowser/README.md)
+          - [ValueProposition](apacai/Services/Current/Platforms/AthenaBrowser/ValueProposition.md)
+        - [TheDomain](apacai/Services/Current/Platforms/TheDomain/README.md)
+      - [Transcend](apacai/Services/Current/Transcend/README.md)
+        - [Overview](apacai/Services/Current/Transcend/README.md)
+        - [transcend.pdf](apacai/Services/Current/Transcend/transcend.pdf)
+        
+    - [Futuristic](apacai/Services/Futuristic/README.md)
+      - [AthenaOS](apacai/Services/Futuristic/AthenaOS/README.md)
+        - [IDEAS](apacai/Services/Futuristic/AthenaOS/IDEAS.md)
+        - [Overview](apacai/Services/Futuristic/AthenaOS/README.md)
+      - [Nanomachines](apacai/Services/Futuristic/Nanomachines/README.md)
+        - [Overview](apacai/Services/Futuristic/Nanomachines/README.md)
+      - [FuturisticOverview](apacai/Services/Futuristic/README.md)
+      - [SpaceMining](apacai/Services/Futuristic/SpaceMining/README.md)
+        - [Overview](apacai/Services/Futuristic/SpaceMining/README.md)
+      - [SwarmRobotics](apacai/Services/Futuristic/SwarmRobotics/README.md)
+        - [Overview](apacai/Services/Futuristic/SwarmRobotics/README.md)
