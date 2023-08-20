@@ -19,28 +19,30 @@ extra:
     - icon: fontawesome/brands/python
       link: https://pypi.org/project/APACAI/
 theme:
-  name: material
-  custom_dir: docs/overrides
-  logo: assets/img/APACAI-logo.png
-  palette:
+    name: material
+    custom_dir: docs/overrides
+    logo: assets/img/APACAI-logo.png
+    palette:
+      # Palette toggle for light mode
     - scheme: default
       primary: black
       toggle:
-        icon: material/brightness-7
+        icon: material/brightness-7 
         name: Switch to dark mode
+    # Palette toggle for dark mode
     - scheme: slate
       primary: black
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
     features:
-      - content.code.copy
-      - content.code.annotate
-      - navigation.tabs
-      - navigation.sections
-      - navigation.expand
-      - navigation.top
-      - announce.dismiss
+        - content.code.copy
+        - content.code.annotate
+        - navigation.tabs
+        - navigation.sections
+        - navigation.expand
+        - navigation.top
+        - announce.dismiss
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
