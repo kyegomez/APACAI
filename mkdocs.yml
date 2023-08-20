@@ -87,34 +87,34 @@ nav:
       - Overview: "APACAI/values/README.md"
     - BusinessModels:
       - BMAnalysis:
-        - ARASAKA: "BusinessModels/BMAnalysis/ARASAKA.md"
-        - ATLAS: "BusinessModels/BMAnalysis/ATLAS.md"
-        - CHOAM: "BusinessModels/BMAnalysis/CHOAM.md"
-        - DUTCHEAST: "BusinessModels/BMAnalysis/DUTCHEAST.md"
-        - HUDSONBAY: "BusinessModels/BMAnalysis/HUDSONBAY.md"
-        - LEX: "BusinessModels/BMAnalysis/LEX.md"
-        - NVIDIA: "BusinessModels/BMAnalysis/NVIDIA.md"
-        - TSCM: "BusinessModels/BMAnalysis/TSCM.md"
-        - TYRELL: "BusinessModels/BMAnalysis/TYRELL.md"
-        - USSTEEL: "BusinessModels/BMAnalysis/USSTEEL.md"
-        - WALMART: "BusinessModels/BMAnalysis/WALMART.md"
-        - WAYNE: "BusinessModels/BMAnalysis/WAYNE.md"
-        - WEYLAND: "BusinessModels/BMAnalysis/WEYLAND.md"
+        - ARASAKA: "APACAI/APACAI/BusinessModels/BMAnalysis/ARASAKA.md"
+        - ATLAS: "APACAI/APACAI/BusinessModels/BMAnalysis/ATLAS.md"
+        - CHOAM: "APACAI/BusinessModels/BMAnalysis/CHOAM.md"
+        - DUTCHEAST: "APACAI/BusinessModels/BMAnalysis/DUTCHEAST.md"
+        - HUDSONBAY: "APACAI/BusinessModels/BMAnalysis/HUDSONBAY.md"
+        - LEX: "APACAI/BusinessModels/BMAnalysis/LEX.md"
+        - NVIDIA: "APACAI/BusinessModels/BMAnalysis/NVIDIA.md"
+        - TSCM: "APACAI/BusinessModels/BMAnalysis/TSCM.md"
+        - TYRELL: "APACAI/BusinessModels/BMAnalysis/TYRELL.md"
+        - USSTEEL: "APACAI/BusinessModels/BMAnalysis/USSTEEL.md"
+        - WALMART: "APACAI/BusinessModels/BMAnalysis/WALMART.md"
+        - WAYNE: "APACAI/BusinessModels/BMAnalysis/WAYNE.md"
+        - WEYLAND: "APACAI/BusinessModels/BMAnalysis/WEYLAND.md"
       - FuturisticBM:
-        - FuturisticBM Overview: "BusinessModels/FuturisticBM/README.md"
+        - FuturisticBM Overview: "APACAI/BusinessModels/FuturisticBM/README.md"
     - Contracts:
       - CloudProviderPartnership:
-        - AgoraCloudPartner: "Contracts/CloudProviderPartnership/AgoraCloudPartner.md"
+        - AgoraCloudPartner: "APACAI/Contracts/CloudProviderPartnership/AgoraCloudPartner.md"
     - Acquisitions:
       - Overview: "APACAI/Acquisitions/README.md"
     - Brand:
       - LogBook:
         - Overview: "APACAI/Brand/LogBook/README.md"
         - APACAI-BANNER Copy: "APACBrand/LogBook/APACAI-BANNER copy.png"
-        - APACAI-PARTNERS: "Brand/LogBook/APACAI-PARTNERS.png"
-        - Swarms Banner: "Brand/LogBook/swarmsbanner.png"
-      - MAIDaily: "Brand/MAIDaily.md"
-    - Financials: "Financials/README.md"
+        - APACAI-PARTNERS: "APACAI/Brand/LogBook/APACAI-PARTNERS.png"
+        - Swarms Banner: "APACAI/Brand/LogBook/swarmsbanner.png"
+      - MAIDaily: "APACAI/Brand/MAIDaily.md"
+    - Financials: "APACAI/Financials/README.md"
     - Services:
       - Overview: "APACAI/Services/README.md"
       - Current:
