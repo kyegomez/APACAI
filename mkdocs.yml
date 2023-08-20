@@ -4,7 +4,7 @@ plugins:
   - search
 copyright: "&copy; APACAI, Inc."
 extra_css:
-  - assets/css/extra.css
+  - docs/assets/css/extra.css
 extra:
   analytics:
     provider: google
@@ -21,7 +21,7 @@ extra:
 theme:
     name: material
     custom_dir: docs/overrides
-    logo: assets/img/APACAI-logo.png
+    logo: docs/assets/img/APACAI-logo.png
     palette:
       # Palette toggle for light mode
     - scheme: default
