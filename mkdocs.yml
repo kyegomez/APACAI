@@ -128,17 +128,17 @@ nav:
             - SALES: "apacai/Services/Current/Frameworks/Swarms/SALES.md"
         - ModelSuites:
           - Cybertron:
-            - README: "apacai/Services/Current/ModelSuites/Cybertron/README.md"
+            - Cybertron: "apacai/Services/Current/ModelSuites/Cybertron/README.md"
         - Models:
           - Andromeda:
             - Andromeda.pdf: "apacai/Services/Current/Models/Andromeda/Andromeda.pdf"
-            - README: "apacai/Services/Current/Models/Andromeda/README.md"
+            - Overview: "apacai/Services/Current/Models/Andromeda/README.md"
           - Kosmos:
             - CASHFLOWS: "apacai/Services/Current/Models/Kosmos/CASHFLOWS.md"
             - GTM: "apacai/Services/Current/Models/Kosmos/GTM.md"
             - MONETIZATION: "apacai/Services/Current/Models/Kosmos/MONETIZATION.md"
             - Nexus: "apacai/Services/Current/Models/Kosmos/Nexus.md"
-            - README: "apacai/Services/Current/Models/Kosmos/README.md"
+            - Overview: "apacai/Services/Current/Models/Kosmos/README.md"
         - Platforms:
           - AthenaBrowser:
             - BusinessModel: "apacai/Services/Current/Platforms/AthenaBrowser/BusinessModel.md"
@@ -146,18 +146,18 @@ nav:
             - README: "apacai/Services/Current/Platforms/AthenaBrowser/README.md"
             - ValueProposition: "apacai/Services/Current/Platforms/AthenaBrowser/ValueProposition.md"
           - TheDomain:
-            - README: "apacai/Services/Current/Platforms/TheDomain/README.md"
+            - Overview: "apacai/Services/Current/Platforms/TheDomain/README.md"
         - Transcend:
-          - README: "apacai/Services/Current/Transcend/README.md"
+          - Overview: "apacai/Services/Current/Transcend/README.md"
           - transcend.pdf: "apacai/Services/Current/Transcend/transcend.pdf"
       - Futuristic:
         - AthenaOS:
           - IDEAS: "apacai/Services/Futuristic/AthenaOS/IDEAS.md"
-          - README: "apacai/Services/Futuristic/AthenaOS/README.md"
+          - Overview: "apacai/Services/Futuristic/AthenaOS/README.md"
         - Nanomachines:
-          - README: "apacai/Services/Futuristic/Nanomachines/README.md"
-        - README: "apacai/Services/Futuristic/README.md"
+          - Overview: "apacai/Services/Futuristic/Nanomachines/README.md"
+        - FuturisticOverview: "apacai/Services/Futuristic/README.md"
         - SpaceMining:
-          - README: "apacai/Services/Futuristic/SpaceMining/README.md"
+          - Overview: "apacai/Services/Futuristic/SpaceMining/README.md"
         - SwarmRobotics:
-          - README: "apacai/Services/Futuristic/SwarmRobotics/README.md"
+          - Overview: "apacai/Services/Futuristic/SwarmRobotics/README.md"
