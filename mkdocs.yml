@@ -64,39 +64,28 @@ nav:
     - FAQ: "faq.md"
 - APACAI Framework:
   - Overview: "APACAI/index.md"
-  - Services:
-    - Pipelines: "APACAI/structures/pipelines.md"
-    - Agents: "APACAI/structures/agents.md"
-    - Workflows: "APACAI/structures/workflows.md"
-    - Prompt Drivers: "APACAI/structures/prompt-drivers.md"
-    - Conversation Memory: "APACAI/structures/conversation-memory.md"
-    - Rulesets: "APACAI/structures/rulesets.md"
-    - Events: "APACAI/structures/events.md"
   - Tools:
       - Overview: "APACAI/tools/index.md"
       - Tool Memory: "APACAI/tools/tool-memory.md"
       - Building Custom Tools: "APACAI/tools/custom-tools.md"
-  - Data:
-    - Overview: "APACAI/data/index.md"
-    - Artifacts: "APACAI/data/artifacts.md"
-    - Embeddings: "APACAI/data/embeddings.md"
-    - Chunkers: "APACAI/data/chunkers.md"
-    - Loaders: "APACAI/data/loaders.md"
-    - Query Engines: "APACAI/data/query-engines.md"
-    - Summary Engines: "APACAI/data/summary-engines.md"
-    - Vector Stores: "APACAI/data/vector-stores.md"
-    - SQL Drivers: "APACAI/data/sql-drivers.md"
-- Examples:
-    - Overview: "examples/index.md"
-    - Agents:
-      - Talk to Redshift: "examples/talk-to-redshift.md"
-      - Talk to a Webpage: "examples/talk-to-a-webpage.md"
-      - Talk to a PDF: "examples/talk-to-a-pdf.md"
-    - Data:
-      - Load and Query Pinecone: "examples/load-and-query-pinecone.md"
-      - Load and Query Marqo: "examples/load-query-and-chat-marqo.md"
-      - Query a Webpage: "examples/query-webpage.md"
-    - Misc:
-        - Count Tokens: "examples/count-tokens.md"
-        - Using Text Generation Web UI: "examples/using-text-generation-web-ui.md"
-        - Storing Conversation Memory in DynamoDB: "examples/store-conversation-memory-in-dynamodb.md"
+  - Governance:
+      - Developer Guidelines: "APACAI/governance/DEVELOPER.md"
+      - Roadmap: "APACAI/governance/ROADMAP.md"
+      - Sales Strategy: "APACAI/governance/SALES.md"
+  - SOPS:
+    - Engineering:
+      - Clean Code: "APACAI/sops/Engineering/CleanCode.md"
+      - Documentation: "APACAI/sops/Engineering/Documentation.md"
+      - Model Deployment: "APACAI/sops/Engineering/ModelDeployment/README.md"
+      - Systems Thinking: "APACAI/sops/Engineering/SystemsThinking.md"
+    - Sales:
+      - Go-to-Market Strategy: "APACAI/sops/SALES/GTM.md"
+  - Ideas:
+    - Overview: "APACAI/ideas/README.md"
+  - Presentations:
+    - Agora: 
+      - Agora Presentation: "APACAI/presentations/Agora/agora-compressed.pdf"
+  - Resources:
+    - Books: "APACAI/resources/BOOKS.md"
+  - Values:
+    - Overview: "APACAI/values/README.md"
