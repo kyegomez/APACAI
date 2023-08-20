@@ -19,30 +19,28 @@ extra:
     - icon: fontawesome/brands/python
       link: https://pypi.org/project/APACAI/
 theme:
-    name: material
-    custom_dir: docs/overrides
-    logo: assets/img/APACAI-logo.png
-    palette:
-      # Palette toggle for light mode
+  name: material
+  custom_dir: docs/overrides
+  logo: assets/img/APACAI-logo.png
+  palette:
     - scheme: default
       primary: black
       toggle:
-        icon: material/brightness-7 
+        icon: material/brightness-7
         name: Switch to dark mode
-    # Palette toggle for dark mode
     - scheme: slate
       primary: black
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
     features:
-        - content.code.copy
-        - content.code.annotate
-        - navigation.tabs
-        - navigation.sections
-        - navigation.expand
-        - navigation.top
-        - announce.dismiss
+      - content.code.copy
+      - content.code.annotate
+      - navigation.tabs
+      - navigation.sections
+      - navigation.expand
+      - navigation.top
+      - announce.dismiss
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
@@ -58,34 +56,122 @@ markdown_extensions:
   - def_list
   - footnotes
 nav:
-- Home:
+  - Home:
     - Overview: "index.md"
     - Contributing: "contributing.md"
     - FAQ: "faq.md"
-- APACAI Framework:
-  - Overview: "APACAI/index.md"
-  - Tools:
-      - Overview: "APACAI/tools/index.md"
-      - Tool Memory: "APACAI/tools/tool-memory.md"
-      - Building Custom Tools: "APACAI/tools/custom-tools.md"
-  - Governance:
+  - APACAI:
+    - Overview: "APACAI/index.md"
+    - Governance:
       - Developer Guidelines: "APACAI/governance/DEVELOPER.md"
       - Roadmap: "APACAI/governance/ROADMAP.md"
       - Sales Strategy: "APACAI/governance/SALES.md"
-  - SOPS:
-    - Engineering:
-      - Clean Code: "APACAI/sops/Engineering/CleanCode.md"
-      - Documentation: "APACAI/sops/Engineering/Documentation.md"
-      - Model Deployment: "APACAI/sops/Engineering/ModelDeployment/README.md"
-      - Systems Thinking: "APACAI/sops/Engineering/SystemsThinking.md"
-    - Sales:
-      - Go-to-Market Strategy: "APACAI/sops/SALES/GTM.md"
-  - Ideas:
-    - Overview: "APACAI/ideas/README.md"
-  - Presentations:
-    - Agora: 
-      - Agora Presentation: "APACAI/presentations/Agora/agora-compressed.pdf"
-  - Resources:
-    - Books: "APACAI/resources/BOOKS.md"
-  - Values:
-    - Overview: "APACAI/values/README.md"
+    - SOPS:
+      - Engineering:
+        - Clean Code: "APACAI/sops/Engineering/CleanCode.md"
+        - Documentation: "APACAI/sops/Engineering/Documentation.md"
+        - Model Deployment: "APACAI/sops/Engineering/ModelDeployment/README.md"
+        - Systems Thinking: "APACAI/sops/Engineering/SystemsThinking.md"
+      - Sales:
+        - Go-to-Market Strategy: "APACAI/sops/SALES/GTM.md"
+    - Ideas:
+      - Overview: "APACAI/ideas/README.md"
+    - Presentations:
+      - Agora:
+        - Agora Presentation: "APACAI/presentations/Agora/agora-compressed.pdf"
+    - Resources:
+      - Books: "APACAI/resources/BOOKS.md"
+    - Values:
+      - Overview: "APACAI/values/README.md"
+    - BusinessModels:
+      - BMAnalysis:
+        - ARASAKA: "BusinessModels/BMAnalysis/ARASAKA.md"
+        - ATLAS: "BusinessModels/BMAnalysis/ATLAS.md"
+        - CHOAM: "BusinessModels/BMAnalysis/CHOAM.md"
+        - DUTCHEAST: "BusinessModels/BMAnalysis/DUTCHEAST.md"
+        - HUDSONBAY: "BusinessModels/BMAnalysis/HUDSONBAY.md"
+        - LEX: "BusinessModels/BMAnalysis/LEX.md"
+        - NVIDIA: "BusinessModels/BMAnalysis/NVIDIA.md"
+        - TSCM: "BusinessModels/BMAnalysis/TSCM.md"
+        - TYRELL: "BusinessModels/BMAnalysis/TYRELL.md"
+        - USSTEEL: "BusinessModels/BMAnalysis/USSTEEL.md"
+        - WALMART: "BusinessModels/BMAnalysis/WALMART.md"
+        - WAYNE: "BusinessModels/BMAnalysis/WAYNE.md"
+        - WEYLAND: "BusinessModels/BMAnalysis/WEYLAND.md"
+      - FuturisticBM:
+        - FuturisticBM Overview: "BusinessModels/FuturisticBM/README.md"
+    - Contracts:
+      - CloudProviderPartnership:
+        - AgoraCloudPartner: "Contracts/CloudProviderPartnership/AgoraCloudPartner.md"
+    - Acquisitions:
+      - Overview: "APACAI/Acquisitions/README.md"
+    - Brand:
+      - LogBook:
+        - Overview: "APACAI/Brand/LogBook/README.md"
+        - APACAI-BANNER Copy: "APACBrand/LogBook/APACAI-BANNER copy.png"
+        - APACAI-PARTNERS: "Brand/LogBook/APACAI-PARTNERS.png"
+        - Swarms Banner: "Brand/LogBook/swarmsbanner.png"
+      - MAIDaily: "Brand/MAIDaily.md"
+    - Financials: "Financials/README.md"
+    - Services:
+      - Overview: "APACAI/Services/README.md"
+      - Current:
+        - Frameworks:
+          - Swarms:
+            - BM: "APACAI/Services/Current/Frameworks/Swarms/BM.md"
+            - DESIGN_PHILOSOPHY: "APACAI/Services/Current/Frameworks/Swarms/DESIGN_PHILOSOPHY.md"
+            - Distribution: "APACAI/Services/Current/Frameworks/Swarms/Distribution.md"
+            - FLYWHEEL: "APACAI/Services/Current/Frameworks/Swarms/FLYWHEEL.md"
+            - PURPOSE: "APACAI/Services/Current/Frameworks/Swarms/PURPOSE.md"
+            - README: "APACAI/Services/Current/Frameworks/Swarms/README.md"
+            - ROADMAP: "APACAI/Services/Current/Frameworks/Swarms/ROADMAP.md"
+            - SALES: "APACAI/Services/Current/Frameworks/Swarms/SALES.md"
+        - ModelSuites:
+          - Cybertron:
+            - README: "APACAI/Services/Current/ModelSuites/Cybertron/README.md"
+        - Models:
+          - Andromeda:
+            - Andromeda.pdf: "APACAI/Services/Current/Models/Andromeda/Andromeda.pdf"
+            - README: "APACAI/Services/Current/Models/Andromeda/README.md"
+          - Kosmos:
+            - CASHFLOWS: "APACAI/Services/Current/Models/Kosmos/CASHFLOWS.md"
+            - GTM: "APACAI/Services/Current/Models/Kosmos/GTM.md"
+            - MONETIZATION: "APACAI/Services/Current/Models/Kosmos/MONETIZATION.md"
+            - Nexus: "APACAI/Services/Current/Models/Kosmos/Nexus.md"
+            - README: "APACAI/Services/Current/Models/Kosmos/README.md"
+        - Platforms:
+          - AthenaBrowser:
+            - BusinessModel: "APACAI/Services/Current/Platforms/AthenaBrowser/BusinessModel.md"
+            - EnterprisePlan: "APACAI/Services/Current/Platforms/AthenaBrowser/EnterprisePlan.md"
+            - README: "APACAI/Services/Current/Platforms/AthenaBrowser/README.md"
+            - ValueProposition: "APACAI/Services/Current/Platforms/AthenaBrowser/ValueProposition.md"
+          - TheDomain:
+            - README: "APACAI/Services/Current/Platforms/TheDomain/README.md"
+        - Transcend:
+          - README: "APACAI/Services/Current/Transcend/README.md"
+          - transcend.pdf: "APACAI/Services/Current/Transcend/transcend.pdf"
+      - Futuristic:
+        - AthenaOS:
+          - IDEAS: "APACAI/Services/Futuristic/AthenaOS/IDEAS.md"
+          - README: "APACAI/Services/Futuristic/AthenaOS/README.md"
+        - Nanomachines:
+          - README: "APACAI/Services/Futuristic/Nanomachines/README.md"
+        - README: "APACAI/Services/Futuristic/README.md"
+        - SpaceMining:
+          - README: "APACAI/Services/Futuristic/SpaceMining/README.md"
+        - SwarmRobotics:
+          - README: "APACAI/Services/Futuristic/SwarmRobotics/README.md"
+    - index: "APACAI/index.md"
+  - assets:
+    - css:
+      - extra.css: "assets/css/extra.css"
+    - img:
+      - griptape-logo.png: "assets/img/griptape-logo.png"
+      - tools:
+        - output.png: "assets/img/tools/output.png"
+        - poetry_setup.png: "assets/img/tools/poetry_setup.png"
+        - toml.png: "assets/img/tools/toml.png"
+  - contributing: "contributing.md"
+  - faq: "faq.md"
+  - overrides:
+    - main.html: "overrides/main.html"
