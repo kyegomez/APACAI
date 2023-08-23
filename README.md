@@ -25,6 +25,7 @@ We are the minds behind projects such as Swarms, Andromeda, Kosmos, CyberTron, a
 
 We're an Human first collective of Humans utilizing an open source for-profit approach to leverage economics and ultimately bring forth an post-scarcity Human civilization
 
+
 -----
 ## Hiring
 We're hiring: Engineers, Researchers, Interns, And, salespeople  to work on cutting edge research like [Swarms](https://github.com/kyegomez/swarms) and to democratize it, email me at with your story `kye@apac.ai`
@@ -59,6 +60,7 @@ In our cosmic quest to reshape the future, several key projects serve as guiding
 
 ### Frameworks
 - 🌍 **[Swarms](https://github.com/kyegomez/swarms)**: Facilitating AI agent swarms and pioneering the frontier of distributed AI tasks and crowd-based learning.
+- 🤖 **[Zeta](https://github.com/kyegomez/zeta)**: An framework that enables fluid creation of State of The Art, Multi-Modality Language Models
 
 ------
 
@@ -141,6 +143,7 @@ To maintain our growth trajectory and stay on the course of being both profoundl
 
 By focusing on these metrics, we are committed to building a business that doesn’t just grow but scales in a sustainable, profitable manner. Let's change the world together.
 
+----
 
 ## Contact
 [Book a call with APAC AI Here,](https://www.apac.ai/Setup-Call) and or Reach out to us at [kye@apac.ai](mailto:kye@apac.ai) for any queries or suggestions.
@@ -148,7 +151,3 @@ By focusing on these metrics, we are committed to building a business that doesn
 At APAC AI, we believe that with the right mix of talented individuals, cutting-edge technology, and an open-source, collaborative approach, we can become the largest corporation of our kind. We invite you to join us on this exciting journey. Together, let's redefine the future of AI.
 
 ------
-
-
----
-APAC AI. *Advancing Humanity.*
