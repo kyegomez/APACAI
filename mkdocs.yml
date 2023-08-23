@@ -126,6 +126,8 @@ nav:
             - README: "apacai/Services/Current/Frameworks/Swarms/README.md"
             - ROADMAP: "apacai/Services/Current/Frameworks/Swarms/ROADMAP.md"
             - SALES: "apacai/Services/Current/Frameworks/Swarms/SALES.md"
+          - Zeta:
+            - Overview: "apacai/Services/Current/Frameworks/zeta/overview.md"
         - ModelSuites:
           - Cybertron:
             - Cybertron: "apacai/Services/Current/ModelSuites/Cybertron/README.md"
