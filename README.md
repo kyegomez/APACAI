@@ -62,6 +62,9 @@ In our cosmic quest to reshape the future, several key projects serve as guiding
 - 🌍 **[Swarms](https://github.com/kyegomez/swarms)**: Facilitating AI agent swarms and pioneering the frontier of distributed AI tasks and crowd-based learning.
 - 🤖 **[Zeta](https://github.com/kyegomez/zeta)**: An framework that enables fluid creation of State of The Art, Multi-Modality Language Models
 
+- 🌌 **[Exa](https://github.com/kyegomez/exa)**: Unleash the full potential of exascale LLMs on consumer-class GPUs, proven by extensive benchmarks, with no long-term adjustments and minimal learning curve.
+
+
 ------
 
 ### Suites of Models
