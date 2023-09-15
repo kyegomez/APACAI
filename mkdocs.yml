@@ -70,15 +70,15 @@ nav:
       - Engineering:
         - Clean Code: "apacai/sops/Engineering/CleanCode.md"
         - Documentation: "apacai/sops/Engineering/Documentation.md"
-        - Model Deployment: "apacai/sops/Engineering/ModelDeployment/index.md"
-        - Systems Thinking: "apacai/sops/Engineering/SystemsThinking.md"
+        - ModelDeployment: "apacai/sops/Engineering/ModelDeployment/index.md"
+        - SystemsThinking: "apacai/sops/Engineering/SystemsThinking.md"
       - Sales:
         - Go-to-Market Strategy: "apacai/sops/SALES/GTM.md"
     - Ideas:
       - Overview: "apacai/ideas/index.md"
     - Presentations:
       - Agora:
-        - Agora Presentation: "apacai/presentations/Agora/agora-compressed.pdf"
+        - AgoraPresentation: "apacai/presentations/Agora/agora-compressed.pdf"
     - Resources:
       - Books: "apacai/resources/BOOKS.md"
     - Values:
@@ -108,9 +108,9 @@ nav:
     - Brand:
       - LogBook:
         - Overview: "apacai/Brand/LogBook/index.md"
-        - APACAI-BANNER Copy: "apacai/APACBrand/LogBook/APACAI-BANNER copy.png"
-        - APACAI-PARTNERS: "apacai/Brand/LogBook/APACAI-PARTNERS.png"
-        - Swarms Banner: "apacai/Brand/LogBook/swarmsbanner.png"
+        - APACAIBANNER Copy: "apacai/APACBrand/LogBook/APACAI-BANNER copy.png"
+        - APACAIPARTNERS: "apacai/Brand/LogBook/APACAI-PARTNERS.png"
+        - SwarmsBanner: "apacai/Brand/LogBook/swarmsbanner.png"
       - MAIDaily: "apacai/Brand/MAIDaily.md"
     - Financials: "apacai/Financials/index.md"
     - Services:
